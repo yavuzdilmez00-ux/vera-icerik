@@ -241,12 +241,24 @@ def main():
         if surum != onceki.get("surum") or not os.path.exists(os.path.join(CIKTI, dosya)):
             atomik_yaz(os.path.join(CIKTI, dosya), icerik)
             degisti = True
-        girdiler.append({"id": k["id"], "baslik": k["baslik"], "yazar": k["yazar"], "renk": k["renk"],
-                         "dosya": dosya, "surum": surum, "ozet": ozet,
-                         "sayfa_sayisi": sum(len(c["sayfalar"]) for c in k["ciltler"])})
+        girdi = {"id": k["id"], "baslik": k["baslik"], "yazar": k["yazar"], "renk": k["renk"],
+                 "dosya": dosya, "surum": surum, "ozet": ozet,
+                 "sayfa_sayisi": sum(len(c["sayfalar"]) for c in k["ciltler"])}
+        # Kapak görseli: vera_kutuphane/kapaklar/<id>.webp varsa manifeste yazılır
+        kapak = f"kapaklar/{k['id']}.webp"
+        if os.path.exists(os.path.join(CIKTI, kapak)):
+            girdi["kapak"] = kapak
+        girdiler.append(girdi)
 
-    if degisti or not os.path.exists(manifest_yol):
-        genel = sum(g["surum"] for g in girdiler)
+    # Genel sürüm, manifest içeriğinin özeti: kitap, sıra veya kapak değişince uygulama manifesti yeniler
+    genel = int(hashlib.sha1(json.dumps(girdiler, ensure_ascii=False, sort_keys=True).encode("utf-8")).hexdigest()[:7], 16)
+    onceki_genel = None
+    if os.path.exists(manifest_yol):
+        try:
+            onceki_genel = json.load(open(manifest_yol, encoding="utf-8")).get("surum")
+        except Exception:
+            pass
+    if degisti or onceki_genel != genel:
         atomik_yaz(manifest_yol, {"surum": genel, "kitaplar": girdiler})   # EN SON
     for g in girdiler:
         print(f"{g['id']}: sürüm {g['surum']}, {g.get('sayfa_sayisi', '?')} sayfa")
