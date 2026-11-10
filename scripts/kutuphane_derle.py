@@ -195,9 +195,25 @@ def main():
         except Exception as e:
             print(f"ATLANDI {yol}: {e}")
             continue
-        if not k.get("id") or k["id"] in uretilen:
+        if not k.get("id"):
             continue
         ciltler = [c for c in k.get("ciltler", []) if c.get("ad") and c.get("sayfalar")]
+        hedef = next((g for g in kitaplar if g["id"] == k["id"]), None)
+        if hedef is not None:
+            # Aynı id'li bot kitabına ek: elle yazılan sayfalar aynı adlı cildin BAŞINA eklenir
+            for ec in ciltler:
+                cilt = next((c for c in hedef["ciltler"] if c["ad"] == ec["ad"]), None)
+                if cilt is None:
+                    cilt = {"ad": ec["ad"], "sayfalar": []}
+                    hedef["ciltler"].append(cilt)
+                mevcut = {re.sub(r"\W+", "", s["icerik"].lower()) for s in cilt["sayfalar"]}
+                yeni = [s for s in ec["sayfalar"] if re.sub(r"\W+", "", s["icerik"].lower()) not in mevcut]
+                cilt["sayfalar"] = yeni + cilt["sayfalar"]
+                for i, s in enumerate(cilt["sayfalar"], 1):   # başlıkları yeniden numarala
+                    s["baslik"] = f"{ec['ad']} #{i}"
+            continue
+        if k["id"] in uretilen:
+            continue
         elle.append({"id": k["id"], "baslik": k.get("baslik", ""), "yazar": k.get("yazar", "Vera Arşiv"),
                      "renk": k.get("renk", ["#0F766E", "#134E4A"]), "ciltler": ciltler})
         uretilen.add(k["id"])
