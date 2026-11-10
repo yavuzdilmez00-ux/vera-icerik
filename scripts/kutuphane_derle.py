@@ -18,6 +18,7 @@ Kullanım:  python scripts/kutuphane_derle.py --kaynak1 _kaynak1 --kaynak2 _kayn
   (--kaynak1: KJSASAUDHAu-j, --kaynak2: jsnjksQSHUnhr-ya checkout klasörü; yoksa o kaynaklar atlanır)
 """
 import argparse
+import collections
 import glob
 import hashlib
 import json
@@ -47,8 +48,21 @@ def temizle(metin: str) -> str:
     return metin.strip()
 
 
+BOZUK_KARAKTER = re.compile(r"Ã.|Ä.|Å.|â€|�")
+
+
+def cumleler(metin: str):
+    # Virgülle birleştirilmiş kalıpları da yakalamak için cümle parçası (clause) düzeyinde böl
+    parcalar = [re.sub(r"\W+", " ", c.lower()).strip() for c in re.split(r"(?<=[.!?,;])\s+", metin)]
+    # Son parça genelde kapanış selamıdır ("Hayırlı Arefeler."); onu sayma
+    return [p for p in parcalar[:-1] if len(p) > 12] if len(parcalar) > 1 else [p for p in parcalar if len(p) > 12]
+
+
 def cop_mu(baslik: str, icerik: str) -> bool:
     if len(icerik) < MIN_HIKAYE:
+        return True
+    # Kodlaması bozuk metin (ör. ansiklopedi dizin artıkları)
+    if BOZUK_KARAKTER.search(baslik + icerik):
         return True
     # "Sayfa Adı | site adı" biçimli başlıklar: kazınmış site sayfası, hikâye değil
     if "|" in baslik or re.search(r"\.(com|net|org)\b", baslik, re.I):
@@ -123,12 +137,23 @@ def cuma_topla(kaynak2):
             veri = json.load(open(yol, encoding="utf-8"))
         except Exception:
             continue
-        gorulen, sayfalar = set(), []
-        for metin in veri if isinstance(veri, list) else []:
-            metin = temizle(str(metin))
+        liste = [temizle(str(m)) for m in (veri if isinstance(veri, list) else [])[:30000]]
+        # Bot, hazır cümleleri karıştırarak mesaj üretiyor. Birçok mesajda aynen geçen cümle = şablon.
+        # Şablon cümleden 2+ içeren mesaj "yapay" sayılır ve alınmaz.
+        sayac = collections.Counter(c for m in liste for c in set(cumleler(m)))
+        sablon = {c for c, n in sayac.items() if n >= 4}
+        gorulen, sayfalar, gorulen_cumle = set(), [], set()
+        for metin in liste:
             k = re.sub(r"\W+", "", metin.lower())
+            cs = cumleler(metin)
             if len(metin) < 60 or k in gorulen or cop_mu("", metin + " " * MIN_HIKAYE):
                 continue
+            if sum(1 for c in cs if c in sablon) >= 2:
+                continue
+            # Aynı cümle başka seçilmiş mesajda da varsa (tekrar hissi) alma
+            if any(c in gorulen_cumle for c in cs):
+                continue
+            gorulen_cumle.update(cs)
             gorulen.add(k)
             sayfalar.append({"baslik": f"{CUMA_ADLARI.get(kod, guzel_ad(kod))} #{len(sayfalar) + 1}", "icerik": metin})
             if len(sayfalar) >= CUMA_PER_KATEGORI:

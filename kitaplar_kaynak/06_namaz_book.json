@@ -136,7 +136,7 @@
         },
         {
           "baslik": "İstihare Namazı ve Duası - 2 Rekat Namaz ve İstihare Duası",
-          "icerik": "Rehber Açıklaması:\n2 rekat namaz sonrası okunacak dua."
+          "icerik": "Nasıl yapılır:\nYapılması mübah olan bir iş hakkında karar vermeden önce iki rekât nafile namaz kılınır, ardından aşağıdaki dua okunur. \"Bu işi\" denilen yerde kişi işini aklından geçirir.\n\nOkunuşu:\nAllâhümme innî estehîruke bi ilmike ve estakdiruke bi kudretike ve es'elüke min fadlikel-azîm. Fe inneke takdiru ve lâ akdiru, ve ta'lemu ve lâ a'lemu, ve ente allâmül-ğuyûb. Allâhümme in künte ta'lemu enne hâzel-emre hayrun lî fî dînî ve meâşî ve âkıbeti emrî fakdurhu lî ve yessirhu lî sümme bârik lî fîh. Ve in künte ta'lemu enne hâzel-emre şerrun lî fî dînî ve meâşî ve âkıbeti emrî fasrifhu annî vasrifnî anh, vakdur liyel-hayra haysü kâne sümme ardınî bih.\n\nAnlamı:\nAllah'ım! Senin ilminle senden hayır istiyorum, kudretinle güç istiyorum, büyük lütfundan istiyorum. Sen güç yetirirsin, ben yetiremem; sen bilirsin, ben bilemem; gizlileri bilen sensin. Allah'ım! Bu iş dinim, geçimim ve sonum bakımından benim için hayırlı ise onu bana takdir et, kolaylaştır ve bereketli kıl. Eğer bu iş dinim, geçimim ve sonum bakımından benim için kötü ise onu benden, beni ondan uzaklaştır. Hayır nerede ise onu bana takdir et ve beni ondan razı kıl.\n\nKaynak: Buhârî, Teheccüd ve Deavât bölümleri.\nNot: İstiharede rüya görmek şart değildir; kişi duadan sonra içinin yöneldiği tarafı tercih eder."
         },
         {
           "baslik": "Tesbih Namazı - Kılınış Düzeni",
@@ -144,39 +144,39 @@
         },
         {
           "baslik": "Tüm Namaz Duaları (Arapça & Okunuş) - 1. Sübhaneke Duası",
-          "icerik": "Rehber Açıklaması:\n"
+          "icerik": "Arapçası:\nسُبْحَانَكَ اللّٰهُمَّ وَبِحَمْدِكَ وَتَبَارَكَ اسْمُكَ وَتَعَالٰى جَدُّكَ (وَجَلَّ ثَنَاؤُكَ) وَلَا اِلٰهَ غَيْرُكَ\n\nOkunuşu:\nSübhânekellâhümme ve bi hamdik ve tebârekesmük ve teâlâ ceddük (ve celle senâük) ve lâ ilâhe ğayrük.\n\nAnlamı:\nAllah'ım! Seni her türlü eksiklikten uzak tutar ve sana hamd ederim. Senin adın mübarektir. Şanın yücedir. (Övgün yücedir.) Senden başka ilah yoktur.\n\nNe zaman okunur:\nHer namazın ilk rekâtında, iftitah tekbirinden sonra okunur. \"Ve celle senâük\" kısmı yalnızca cenaze namazında söylenir."
         },
         {
           "baslik": "Tüm Namaz Duaları (Arapça & Okunuş) - 2. Ettehiyyâtü Duası",
-          "icerik": "Rehber Açıklaması:\n"
+          "icerik": "Arapçası:\nاَلتَّحِيَّاتُ لِلّٰهِ وَالصَّلَوَاتُ وَالطَّيِّبَاتُ اَلسَّلَامُ عَلَيْكَ اَيُّهَا النَّبِيُّ وَرَحْمَةُ اللّٰهِ وَبَرَكَاتُهُ اَلسَّلَامُ عَلَيْنَا وَعَلٰى عِبَادِ اللّٰهِ الصَّالِحِينَ اَشْهَدُ اَنْ لَا اِلٰهَ اِلَّا اللّٰهُ وَاَشْهَدُ اَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ\n\nOkunuşu:\nEttehiyyâtü lillâhi ves-salavâtü vet-tayyibât. Esselâmü aleyke eyyühen-nebiyyü ve rahmetullâhi ve berakâtüh. Esselâmü aleynâ ve alâ ibâdillâhis-sâlihîn. Eşhedü en lâ ilâhe illallâh ve eşhedü enne Muhammeden abdühû ve resûlüh.\n\nAnlamı:\nBütün tahiyyeler, dualar ve güzel sözler Allah'a aittir. Ey Peygamber! Allah'ın selamı, rahmeti ve bereketi senin üzerine olsun. Selam bizim üzerimize ve Allah'ın salih kulları üzerine olsun. Şahitlik ederim ki Allah'tan başka ilah yoktur. Yine şahitlik ederim ki Muhammed O'nun kulu ve elçisidir.\n\nNe zaman okunur:\nHer oturuşta (ka'de) okunur. İlk oturuşta yalnızca Ettehiyyâtü okunup kalkılır; son oturuşta Salli, Bârik ve Rabbenâ duaları da okunur."
         },
         {
           "baslik": "Tüm Namaz Duaları (Arapça & Okunuş) - 3. Allâhümme Salli & Bârik",
-          "icerik": "Rehber Açıklaması:\n"
+          "icerik": "Arapçası:\nاَللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدٍ وَعَلٰى اٰلِ مُحَمَّدٍ كَمَا صَلَّيْتَ عَلٰى اِبْرَاهِيمَ وَعَلٰى اٰلِ اِبْرَاهِيمَ اِنَّكَ حَمِيدٌ مَجِيدٌ\n\nاَللّٰهُمَّ بَارِكْ عَلٰى مُحَمَّدٍ وَعَلٰى اٰلِ مُحَمَّدٍ كَمَا بَارَكْتَ عَلٰى اِبْرَاهِيمَ وَعَلٰى اٰلِ اِبْرَاهِيمَ اِنَّكَ حَمِيدٌ مَجِيدٌ\n\nOkunuşu:\nAllâhümme salli alâ Muhammedin ve alâ âli Muhammed. Kemâ salleyte alâ İbrâhîme ve alâ âli İbrâhîm. İnneke hamîdün mecîd.\n\nAllâhümme bârik alâ Muhammedin ve alâ âli Muhammed. Kemâ bârakte alâ İbrâhîme ve alâ âli İbrâhîm. İnneke hamîdün mecîd.\n\nAnlamı:\nAllah'ım! İbrâhim'e ve ailesine rahmet ettiğin gibi Muhammed'e ve ailesine de rahmet et. Şüphesiz sen övülmeye layıksın, şanı yücesin.\n\nAllah'ım! İbrâhim'e ve ailesine bereket verdiğin gibi Muhammed'e ve ailesine de bereket ver. Şüphesiz sen övülmeye layıksın, şanı yücesin.\n\nNe zaman okunur:\nNamazın son oturuşunda Ettehiyyâtü'den sonra okunur."
         },
         {
           "baslik": "Tüm Namaz Duaları (Arapça & Okunuş) - 4. Rabbenâ Âtinâ & Rabbenâğfirlî",
-          "icerik": "Rehber Açıklaması:\n"
+          "icerik": "Arapçası:\nرَبَّنَا اٰتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الْاٰخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ\n\nرَبَّنَا اغْفِرْ لِي وَلِوَالِدَيَّ وَلِلْمُؤْمِنِينَ يَوْمَ يَقُومُ الْحِسَابُ\n\nOkunuşu:\nRabbenâ âtinâ fid-dünyâ haseneten ve fil-âhireti haseneten ve kınâ azâben-nâr.\n\nRabbenağfirlî ve li vâlideyye ve lil-mü'minîne yevme yekûmül-hisâb.\n\nAnlamı:\nRabbimiz! Bize dünyada da iyilik ver, ahirette de iyilik ver ve bizi ateş azabından koru. (Bakara 2:201)\n\nRabbimiz! Hesap gününde beni, anamı babamı ve bütün müminleri bağışla. (İbrâhim 14:41)\n\nNe zaman okunur:\nSon oturuşta Salli ve Bârik'ten sonra okunur, ardından selam verilir."
         },
         {
           "baslik": "Tüm Namaz Sureleri (Zamm-ı Sureler) - 1. Fâtiha Suresi",
-          "icerik": "Rehber Açıklaması:\n"
+          "icerik": "Arapçası:\nبِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ ۝ اَلْحَمْدُ لِلّٰهِ رَبِّ الْعَالَم۪ينَ ۝ اَلرَّحْمٰنِ الرَّح۪يمِ ۝ مَالِكِ يَوْمِ الدّ۪ينِ ۝ اِيَّاكَ نَعْبُدُ وَاِيَّاكَ نَسْتَع۪ينُ ۝ اِهْدِنَا الصِّرَاطَ الْمُسْتَق۪يمَ ۝ صِرَاطَ الَّذ۪ينَ اَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّٓالّ۪ينَ\n\nOkunuşu:\nBismillâhirrahmânirrahîm. Elhamdü lillâhi rabbil-âlemîn. Errahmânir-rahîm. Mâliki yevmid-dîn. İyyâke na'büdü ve iyyâke neste'în. İhdinas-sırâtal-müstakîm. Sırâtallezîne en'amte aleyhim ğayril-mağdûbi aleyhim ve leddâllîn.\n\nAnlamı:\nRahmân ve Rahîm olan Allah'ın adıyla. Hamd, âlemlerin Rabbi Allah'adır. O, Rahmân'dır, Rahîm'dir. Din gününün sahibidir. Yalnız sana kulluk eder, yalnız senden yardım dileriz. Bizi doğru yola ilet. Kendilerine nimet verdiklerinin yoluna; gazaba uğrayanlarınkine ve sapanlarınkine değil.\n\nNe zaman okunur:\nHer namazın her rekâtında kıyamda okunur. Kur'an'ın ilk suresidir, 7 ayettir."
         },
         {
           "baslik": "Tüm Namaz Sureleri (Zamm-ı Sureler) - 2. Kevser Suresi",
-          "icerik": "Rehber Açıklaması:\n"
+          "icerik": "Arapçası:\nبِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ ۝ اِنَّٓا اَعْطَيْنَاكَ الْكَوْثَرَ ۝ فَصَلِّ لِرَبِّكَ وَانْحَرْ ۝ اِنَّ شَانِئَكَ هُوَ الْاَبْتَرُ\n\nOkunuşu:\nİnnâ a'taynâkel-kevser. Fesalli li rabbike venhar. İnne şânieke hüvel-ebter.\n\nAnlamı:\nŞüphesiz biz sana Kevser'i verdik. Öyleyse Rabbin için namaz kıl ve kurban kes. Asıl soyu kesik olan, sana kin besleyendir.\n\nNe zaman okunur:\nKur'an'ın en kısa suresidir (108. sure, 3 ayet). Fâtiha'dan sonra zamm-ı sure olarak okunabilir."
         },
         {
           "baslik": "Tüm Namaz Sureleri (Zamm-ı Sureler) - 3. İhlâs Suresi",
-          "icerik": "Rehber Açıklaması:\n"
+          "icerik": "Arapçası:\nبِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ ۝ قُلْ هُوَ اللّٰهُ اَحَدٌ ۝ اَللّٰهُ الصَّمَدُ ۝ لَمْ يَلِدْ وَلَمْ يُولَدْ ۝ وَلَمْ يَكُنْ لَهُ كُفُوًا اَحَدٌ\n\nOkunuşu:\nKul hüvallâhü ehad. Allâhüs-samed. Lem yelid ve lem yûled. Ve lem yekün lehû küfüven ehad.\n\nAnlamı:\nDe ki: O Allah birdir. Allah sameddir; her şey O'na muhtaçtır, O hiçbir şeye muhtaç değildir. O doğurmamış ve doğurulmamıştır. Hiçbir şey O'na denk değildir.\n\nNe zaman okunur:\n112. sure, 4 ayet. Fâtiha'dan sonra zamm-ı sure olarak okunabilir."
         },
         {
           "baslik": "Tüm Namaz Sureleri (Zamm-ı Sureler) - 4. Felak Suresi",
-          "icerik": "Rehber Açıklaması:\n"
+          "icerik": "Arapçası:\nبِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ ۝ قُلْ اَعُوذُ بِرَبِّ الْفَلَقِ ۝ مِنْ شَرِّ مَا خَلَقَ ۝ وَمِنْ شَرِّ غَاسِقٍ اِذَا وَقَبَ ۝ وَمِنْ شَرِّ النَّفَّاثَاتِ فِي الْعُقَدِ ۝ وَمِنْ شَرِّ حَاسِدٍ اِذَا حَسَدَ\n\nOkunuşu:\nKul eûzü bi rabbil-felak. Min şerri mâ halak. Ve min şerri ğâsikın izâ vekab. Ve min şerrin-neffâsâti fil-ukad. Ve min şerri hâsidin izâ hased.\n\nAnlamı:\nDe ki: Yarattığı şeylerin şerrinden, karanlığı çöktüğünde gecenin şerrinden, düğümlere üfleyenlerin şerrinden ve haset ettiğinde hasetçinin şerrinden, sabahın Rabbine sığınırım.\n\nNe zaman okunur:\n113. sure, 5 ayet. Fâtiha'dan sonra zamm-ı sure olarak okunabilir."
         },
         {
           "baslik": "Tüm Namaz Sureleri (Zamm-ı Sureler) - 5. Nâs Suresi",
-          "icerik": "Rehber Açıklaması:\n"
+          "icerik": "Arapçası:\nبِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ ۝ قُلْ اَعُوذُ بِرَبِّ النَّاسِ ۝ مَلِكِ النَّاسِ ۝ اِلٰهِ النَّاسِ ۝ مِنْ شَرِّ الْوَسْوَاسِ الْخَنَّاسِ ۝ اَلَّذ۪ي يُوَسْوِسُ ف۪ي صُدُورِ النَّاسِ ۝ مِنَ الْجِنَّةِ وَالنَّاسِ\n\nOkunuşu:\nKul eûzü bi rabbin-nâs. Melikin-nâs. İlâhin-nâs. Min şerril-vesvâsil-hannâs. Ellezî yüvesvisü fî sudûrin-nâs. Minel-cinneti ven-nâs.\n\nAnlamı:\nDe ki: İnsanların Rabbine, insanların hükümdarına, insanların ilahına sığınırım; insanların göğüslerine vesvese veren, cinlerden ve insanlardan olan sinsi vesvesecinin şerrinden.\n\nNe zaman okunur:\n114. sure, 6 ayet. Kur'an'ın son suresidir; Fâtiha'dan sonra zamm-ı sure olarak okunabilir."
         },
         {
           "baslik": "Dört Mezhebe Göre Namaz Farkları - 1. Niyet ve Tekbir",
@@ -188,7 +188,7 @@
         },
         {
           "baslik": "Ezan ve Kamet - 1. Ezan",
-          "icerik": "Rehber Açıklaması:\nNamaz vakitlerini bildiren ilahi çağrı."
+          "icerik": "Ezanın sözleri (okunuşu ve anlamı):\nAllâhü ekber (4 defa) — Allah en büyüktür.\nEşhedü en lâ ilâhe illallâh (2 defa) — Şahitlik ederim ki Allah'tan başka ilah yoktur.\nEşhedü enne Muhammeden resûlullâh (2 defa) — Şahitlik ederim ki Muhammed Allah'ın elçisidir.\nHayye ales-salâh (2 defa) — Haydi namaza.\nHayye alel-felâh (2 defa) — Haydi kurtuluşa.\n(Sabah ezanında burada: Es-salâtü hayrun minen-nevm (2 defa) — Namaz uykudan hayırlıdır.)\nAllâhü ekber (2 defa) — Allah en büyüktür.\nLâ ilâhe illallâh (1 defa) — Allah'tan başka ilah yoktur.\n\nEzan duası:\nAllâhümme rabbe hâzihid-da'vetit-tâmmeh, ves-salâtil-kâimeh, âti Muhammedenil-vesîlete vel-fadîleh, veb'ashü makâmen mahmûdenillezî ve'adteh.\nAnlamı: Ey bu eksiksiz çağrının ve kılınacak namazın Rabbi olan Allah'ım! Muhammed'e vesileyi ve fazileti ver, onu vaat ettiğin Makâm-ı Mahmûd'a ulaştır. (Buhârî, Ezân)"
         },
         {
           "baslik": "Ezan ve Kamet - 2. Ezan Duası",
@@ -196,15 +196,15 @@
         },
         {
           "baslik": "Namaz Sonrası Tesbihat - 1. Salâten Tüncînâ veya Salavat",
-          "icerik": "Rehber Açıklaması:\nFarz namazın selamından sonra okunur."
+          "icerik": "Okunuşu:\nAllâhümme salli alâ seyyidinâ Muhammedin salâten tüncînâ bihâ min cemî'il-ehvâli vel-âfât, ve takdî lenâ bihâ cemî'al-hâcât, ve tütahhirunâ bihâ min cemî'is-seyyiât, ve terfe'unâ bihâ indeke a'lad-deracât, ve tübelliğunâ bihâ aksal-ğâyât, min cemî'il-hayrâti fil-hayâti ve ba'del-memât.\n\nAnlamı:\nAllah'ım! Efendimiz Muhammed'e öyle bir salat ve selam eyle ki onun hürmetine bizi bütün korku ve belalardan kurtarasın, bütün ihtiyaçlarımızı gideresin, bizi bütün günahlardan temizleyesin, katında en yüksek derecelere çıkarasın; hayatta ve ölümden sonra hayırların en sonuncusuna ulaştırasın.\n\nNot:\nSonraki dönemlerde yaygınlaşmış bir salavat duasıdır; hadis kaynaklarında bu lafızla geçmez. Farz namazın ardından okunması bir gelenektir, namazın parçası değildir."
         },
         {
           "baslik": "Namaz Sonrası Tesbihat - 2. Ayetü'l-Kürsi",
-          "icerik": "Rehber Açıklaması:\nTesbih çekmeye başlamadan önce okunur."
+          "icerik": "Arapçası:\nاَللّٰهُ لَٓا اِلٰهَ اِلَّا هُوَۚ اَلْحَيُّ الْقَيُّومُۚ لَا تَأْخُذُهُ سِنَةٌ وَلَا نَوْمٌۜ لَهُ مَا فِي السَّمٰوَاتِ وَمَا فِي الْاَرْضِۜ مَنْ ذَا الَّذ۪ي يَشْفَعُ عِنْدَهُٓ اِلَّا بِاِذْنِه۪ۜ يَعْلَمُ مَا بَيْنَ اَيْد۪يهِمْ وَمَا خَلْفَهُمْۚ وَلَا يُح۪يطُونَ بِشَيْءٍ مِنْ عِلْمِه۪ٓ اِلَّا بِمَا شَٓاءَۚ وَسِعَ كُرْسِيُّهُ السَّمٰوَاتِ وَالْاَرْضَۚ وَلَا يَؤُ۫دُهُ حِفْظُهُمَاۚ وَهُوَ الْعَلِيُّ الْعَظ۪يمُ\n\nOkunuşu:\nAllâhü lâ ilâhe illâ hüvel-hayyül-kayyûm. Lâ te'huzühû sinetün ve lâ nevm. Lehû mâ fis-semâvâti ve mâ fil-ard. Men zellezî yeşfeu indehû illâ bi iznih. Ya'lemü mâ beyne eydîhim ve mâ halfehüm. Ve lâ yühîtûne bi şey'in min ilmihî illâ bi mâ şâ'. Vesia kürsiyyühüs-semâvâti vel-ard. Ve lâ yeûdühû hıfzuhümâ ve hüvel-aliyyül-azîm.\n\nAnlamı:\nAllah, kendisinden başka ilah olmayandır. Diridir, her şeyi ayakta tutandır. O'nu ne uyuklama ne de uyku tutar. Göklerde ve yerde ne varsa O'nundur. İzni olmadan O'nun katında kim şefaat edebilir? O, kulların önlerindekini ve arkalarındakini bilir. Onlar O'nun ilminden, dilediği kadarının dışında hiçbir şeyi kavrayamazlar. O'nun kürsüsü gökleri ve yeri kaplar. Onları koruyup gözetmek O'na ağır gelmez. O yücedir, büyüktür. (Bakara 2:255)\n\nNe zaman okunur:\nFarz namazların ardından, tesbihata başlamadan önce okunur."
         },
         {
           "baslik": "Namaz Sonrası Tesbihat - 3. 33'lü Tesbihler",
-          "icerik": "Rehber Açıklaması:\nSubhanallah, Elhamdülillah, Allahuekber"
+          "icerik": "Farz namazdan sonra okunur:\nSübhânallâh (33 defa) — Allah her türlü eksiklikten uzaktır.\nElhamdülillâh (33 defa) — Hamd Allah'a mahsustur.\nAllâhü ekber (33 defa) — Allah en büyüktür.\n\nArdından okunur:\nLâ ilâhe illallâhü vahdehû lâ şerîke leh, lehül-mülkü ve lehül-hamdü ve hüve alâ külli şey'in kadîr.\nAnlamı: Allah'tan başka ilah yoktur. O tektir, ortağı yoktur. Mülk O'nundur, hamd O'na aittir. O her şeye gücü yetendir.\n\nKaynak: Müslim, Mesâcid."
         },
         {
           "baslik": "Şifa ve Ferahlık Ayetleri - 1. Sıkıntı ve Ferahlık İçin (İnşirah Suresi)",
@@ -212,7 +212,7 @@
         },
         {
           "baslik": "Şifa ve Ferahlık Ayetleri - 2. Şifa Ayeti",
-          "icerik": "Rehber Açıklaması:\nHastalık anında şifa niyetiyle okunur."
+          "icerik": "Kur'an'da şifa kelimesinin geçtiği ayetler:\n• \"...Mümin bir topluluğun gönüllerine şifa versin.\" (Tevbe 9:14)\n• \"Ey insanlar! Size Rabbinizden bir öğüt, gönüllerdeki derde bir şifa... gelmiştir.\" (Yûnus 10:57)\n• \"...Onların (arıların) karınlarından renkleri çeşitli bir içecek çıkar, onda insanlar için şifa vardır.\" (Nahl 16:69)\n• \"Biz Kur'an'dan müminler için şifa ve rahmet olan şeyler indiriyoruz.\" (İsrâ 17:82)\n• \"Hastalandığımda bana şifa veren O'dur.\" (Şuarâ 26:80)\n• \"De ki: O, iman edenler için bir hidayet ve şifadır.\" (Fussilet 41:44)\n\nNot:\nBu ayetler dua niyetiyle okunur. Okumak, tedaviye başvurmanın yerine geçmez; Peygamberimiz (s.a.v.) tedavi olmayı da tavsiye etmiştir (Ebû Dâvûd, Tıb)."
         },
         {
           "baslik": "Peygamberimizden (s.a.v) Dualar - 1. Sabah ve Akşam Duası (Seyyidü'l İstiğfar)",
