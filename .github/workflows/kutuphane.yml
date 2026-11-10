@@ -1,0 +1,64 @@
+name: Kütüphane Derle
+
+# Botların ham verisini (eski depolar) okuyup temiz vera_kutuphane/ klasörünü üretir.
+on:
+  schedule:
+    - cron: "30 3 * * *"     # her gün 06:30 (TR)
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/**"
+      - ".github/workflows/kutuphane.yml"
+
+# Aynı anda iki derleme çalışıp birbirinin üstüne yazmasın
+concurrency:
+  group: vera-kutuphane
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  derle:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Kaynak 1 (hikâye arşivi)
+        uses: actions/checkout@v4
+        with:
+          repository: yavuzdilmez00-ux/KJSASAUDHAu-j
+          path: _kaynak1
+          sparse-checkout: Hikayeler_Arsivi
+
+      - name: Kaynak 2 (md hikâyeler + cuma mesajları)
+        uses: actions/checkout@v4
+        with:
+          repository: yavuzdilmez00-ux/jsnjksQSHUnhr-ya
+          path: _kaynak2
+          sparse-checkout: |
+            Sahabe_ve_Peygamberler
+            Evliyalar_ve_Alimler
+            Ahlak_ve_Erdem
+            Diger_Ibretlikler
+            Diğer_İbretlikler
+            veriler
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Derle
+        run: python scripts/kutuphane_derle.py --kaynak1 _kaynak1 --kaynak2 _kaynak2
+
+      - name: Değiştiyse gönder
+        run: |
+          git config user.name "vera-kutuphane-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add vera_kutuphane
+          if git diff --cached --quiet; then echo "Değişiklik yok"; exit 0; fi
+          git commit -m "Kütüphane güncellendi"
+          git pull --rebase origin main
+          git push
