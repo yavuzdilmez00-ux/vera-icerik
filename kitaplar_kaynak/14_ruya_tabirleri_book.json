@@ -1,0 +1,48 @@
+{
+  "id": "ruya_tabirleri_book",
+  "baslik": "İslami Rüya Tabirleri",
+  "yazar": "İbn-i Sirin ve Nablusi Hazretleri",
+  "renk": [
+    "#64748B",
+    "#475569"
+  ],
+  "ciltler": [
+    {
+      "ad": "Sık Görülen Rüyalar ve İslami Yorumları",
+      "sayfalar": [
+        {
+          "baslik": "Rüyada Kâbe Görmek",
+          "icerik": "Rüyada Kâbe-i Muazzama'yı görmek, hidayete, yüksek mertebeye, amellerin kabulüne ve imanda kemale ermeye delalet eder. Rüyasında Kâbe'yi gören kimse korkularından emin olur, dilekleri kabul bulur."
+        },
+        {
+          "baslik": "Rüyada Peygamber Efendimizi (s.a.v.) Görmek",
+          "icerik": "Resûlullah Efendimiz'i rüyada görmek aynen hakikattir. Şeytan O'nun suretine giremez. Efendimizi gören kimse dünya ve ahirette felaha erer, sıkıntılarından kurtulur."
+        },
+        {
+          "baslik": "Rüyada Kur'an-ı Kerim Okumak",
+          "icerik": "Rüyada Kur'an okuduğunu görmek, şerefe, izzete, şifaya ve ilim öğrenmeye işarettir. Rüyada Kuran okuyan kimse meleklerin duasına mazhar olur."
+        },
+        {
+          "baslik": "Rüyada Namaz Kılmak",
+          "icerik": "Rüyada namaz kıldığını görmek, verilen sözü tutmaya, borç ödemeye, dinde istikamete ve duaların kabulüne delalettir."
+        },
+        {
+          "baslik": "Rüyada Su İçmek",
+          "icerik": "Rüyada berrak ve tatlı su içmek, helal rızka, uzun ömre, hastalıklardan şifaya ve güzel ahlaka işarettir."
+        },
+        {
+          "baslik": "Rüyada Uçmak",
+          "icerik": "Rüyada gökyüzünde uçtuğunu görmek, makam ve mevki sahibi olmaya, hayırlı yolculuğa ve arzulara kavuşmaya delalettir."
+        },
+        {
+          "baslik": "Rüyada Ağlamak",
+          "icerik": "Rüyada sevinçten veya Allah korkusundan ağlamak, neşeye, ferahlığa ve günahlardan arınmaya delalet eder."
+        },
+        {
+          "baslik": "Rüyada Deniz Görmek",
+          "icerik": "Sakin ve berrak deniz görmek, cömert bir devlet adamına, geniş rızka ve ilim deryasına işarettir."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,224 @@
+{
+  "id": "namaz_book",
+  "baslik": "Namaz Hocası & Görsel Rehber",
+  "yazar": "Vera İlmihal",
+  "renk": [
+    "#3B82F6",
+    "#1D4ED8"
+  ],
+  "ciltler": [
+    {
+      "ad": "Abdest, Farzlar ve Namaz Kılınışı",
+      "sayfalar": [
+        {
+          "baslik": "Abdest Nasıl Alınır? (Sünnete Uygun) - 1. Niyet ve Besmele",
+          "icerik": "Rehber Açıklaması:\nKolları sıvayıp elleri yıkamadan önce 'Niyet ettim Allah rızası için abdest almaya' diye kalben niyet edilir ve Eûzü Besmele çekilir."
+        },
+        {
+          "baslik": "Abdest Nasıl Alınır? (Sünnete Uygun) - 2. Elleri Yıkamak",
+          "icerik": "Rehber Açıklaması:\nEller bileklere kadar üçer defa, parmak araları hilallenerek yıkanır."
+        },
+        {
+          "baslik": "Abdest Nasıl Alınır? (Sünnete Uygun) - 3. Ağza Su Vermek (Mazmaza)",
+          "icerik": "Rehber Açıklaması:\nSağ avuçla ağza üç defa su verilip çalkalanır."
+        },
+        {
+          "baslik": "Abdest Nasıl Alınır? (Sünnete Uygun) - 4. Burna Su Vermek (İstinşak)",
+          "icerik": "Rehber Açıklaması:\nSağ avuçla burna üç defa su çekilip sol el ile temizlenir."
+        },
+        {
+          "baslik": "Abdest Nasıl Alınır? (Sünnete Uygun) - 5. Yüzü Yıkamak (Farz)",
+          "icerik": "Rehber Açıklaması:\nSaç bitiminden çene altına, kulak yumuşaklarına kadar yüz üç defa yıkanır."
+        },
+        {
+          "baslik": "Abdest Nasıl Alınır? (Sünnete Uygun) - 6. Kolları Yıkamak (Farz)",
+          "icerik": "Rehber Açıklaması:\nÖnce sağ, sonra sol kol dirseklerle beraber üçer defa yıkanır."
+        },
+        {
+          "baslik": "Abdest Nasıl Alınır? (Sünnete Uygun) - 7. Başı Mesh Etmek (Farz)",
+          "icerik": "Rehber Açıklaması:\nEller ıslatılarak başın üzeri mesh edilir."
+        },
+        {
+          "baslik": "Abdest Nasıl Alınır? (Sünnete Uygun) - 8. Kulaklar ve Boyun",
+          "icerik": "Rehber Açıklaması:\nKulakların içi ve arkası ile boyun mesh edilir."
+        },
+        {
+          "baslik": "Abdest Nasıl Alınır? (Sünnete Uygun) - 9. Ayakları Yıkamak (Farz)",
+          "icerik": "Rehber Açıklaması:\nSağ ve sol ayak topuklarla beraber parmak araları yıkanır."
+        },
+        {
+          "baslik": "Gusül Abdesti (Boy Abdesti) - 1. Niyet ve Besmele",
+          "icerik": "Rehber Açıklaması:\nNiyet ettim Allah rızası için gusül abdesti almaya diyerek besmele çekilir."
+        },
+        {
+          "baslik": "Gusül Abdesti (Boy Abdesti) - 2. Ağız ve Burun (Farz)",
+          "icerik": "Rehber Açıklaması:\nAğza boğaza kadar üç defa bol su verilip çalkalanır (Mazmaza). Burna genize kadar su çekilir (İstinşak)."
+        },
+        {
+          "baslik": "Gusül Abdesti (Boy Abdesti) - 3. Bütün Bedeni Yıkamak (Farz)",
+          "icerik": "Rehber Açıklaması:\nTüm beden kuru yer kalmayacak şekilde yıkanır."
+        },
+        {
+          "baslik": "Sabah Namazı (Detaylı Dua & Surelerle) - 1. Sünnet - 1. Rekat",
+          "icerik": "Rehber Açıklaması:\nNiyet edilir, İftitah Tekbiri alınır. Sübhaneke, Fatiha ve Kevser Suresi okunup rükû ve secdeler yapılır."
+        },
+        {
+          "baslik": "Sabah Namazı (Detaylı Dua & Surelerle) - 2. Sünnet - 2. Rekat ve Oturuş",
+          "icerik": "Rehber Açıklaması:\nAyağa kalkılır. Fatiha ve İhlas Suresi okunur. Rükû/secde sonrası oturulur. Tahiyyat, Salli-Barik ve Rabbena duaları okunup selam verilir."
+        },
+        {
+          "baslik": "Sabah Namazı (Detaylı Dua & Surelerle) - 3. Farz - 2 Rekat Kılınışı",
+          "icerik": "Rehber Açıklaması:\nKamet getirilir. Aynı düzenle 2 rekat Farz kılınır."
+        },
+        {
+          "baslik": "Öğle Namazı (Detaylı Dua & Surelerle) - 1. İlk Sünnet - 1. Rekat",
+          "icerik": "Rehber Açıklaması:\nNiyet edilip Tekbir alınır. Sübhaneke, Fatiha ve Zamm-ı Sure (Kevser) okunur."
+        },
+        {
+          "baslik": "Öğle Namazı (Detaylı Dua & Surelerle) - 2. İlk Sünnet - 2. Rekat & 1. Oturuş",
+          "icerik": "Rehber Açıklaması:\nFatiha ve İhlas okunur. Rükû ve secdeden sonra oturulur. SADECE **Ettehiyyâtü** okunup 3. rekata kalkılır."
+        },
+        {
+          "baslik": "Öğle Namazı (Detaylı Dua & Surelerle) - 3. İlk Sünnet - 3. ve 4. Rekat & Son Oturuş",
+          "icerik": "Rehber Açıklaması:\n3. rekatta Fatiha + Felak, 4. rekatta Fatiha + Nas okunur. Son oturuşta Tahiyyat, Salli-Barik, Rabbena okunup selam verilir."
+        },
+        {
+          "baslik": "Öğle Namazı (Detaylı Dua & Surelerle) - 4. Öğle Farzı - 4 Rekat Kılınışı",
+          "icerik": "Rehber Açıklaması:\n• Kamet getirilir.\n• 1. & 2. Rekatlarda Fatiha + Zamm-ı Sure okunur. 1. Oturuşta Tahiyyat okunur.\n• **3. ve 4. Rekatlarda SADECE Fâtîha Suresi okunur (Sure eklenmez!)**.\n• Son oturuşta dualarla selam verilir."
+        },
+        {
+          "baslik": "Öğle Namazı (Detaylı Dua & Surelerle) - 5. Son Sünnet - 2 Rekat",
+          "icerik": "Rehber Açıklaması:\n2 rekat kılınır. Fatiha + Sure ve oturuş duaları okunarak tamamlanır."
+        },
+        {
+          "baslik": "İkindi Namazı (Detaylı Dualarla) - 1. Sünnet - 1. & 2. Rekat & 1. Oturuş",
+          "icerik": "Rehber Açıklaması:\nGayri müekked sünnettir. 1. Oturuşta Ettehiyyâtü ile birlikte **Salli ve Bârik** okunur!"
+        },
+        {
+          "baslik": "İkindi Namazı (Detaylı Dualarla) - 2. Sünnet - 3. & 4. Rekat",
+          "icerik": "Rehber Açıklaması:\n3. rekata kalkınca **Sübhâneke** okunur! Fatiha + Sure okunarak tamamlanır."
+        },
+        {
+          "baslik": "İkindi Namazı (Detaylı Dualarla) - 3. Farz - 4 Rekat Kılınışı",
+          "icerik": "Rehber Açıklaması:\nÖğle farzı gibi kılınır. İlk iki rekatta sure var, son iki rekatta sadece Fatiha."
+        },
+        {
+          "baslik": "Akşam Namazı (Detaylı Dualarla) - 1. Farz - 1. & 2. Rekat",
+          "icerik": "Rehber Açıklaması:\nKamet getirilir. 1. ve 2. rekatta Fatiha + Sure okunur. 1. Oturuşta Tahiyyat okunur."
+        },
+        {
+          "baslik": "Akşam Namazı (Detaylı Dualarla) - 2. Farz - 3. Rekat & Son Oturuş",
+          "icerik": "Rehber Açıklaması:\n3. rekata kalkılır. **SADECE Fâtîha Suresi** okunur. Son oturuşta dualar okunup selam verilir."
+        },
+        {
+          "baslik": "Akşam Namazı (Detaylı Dualarla) - 3. Son Sünnet - 2 Rekat",
+          "icerik": "Rehber Açıklaması:\n2 rekat sünnet kılınır."
+        },
+        {
+          "baslik": "Yatsı ve Vitir Namazı (Kunut Duaları Dahil) - 1. Vitir Namazı - 1. & 2. Rekat",
+          "icerik": "Rehber Açıklaması:\n1. ve 2. rekatta Fatiha + Zamm-ı Sure okunup oturulur (Tahiyyat)."
+        },
+        {
+          "baslik": "Yatsı ve Vitir Namazı (Kunut Duaları Dahil) - 2. Vitir Namazı - 3. Rekat ve Kunut Duaları",
+          "icerik": "Rehber Açıklaması:\n3. rekata kalkılır. Besmele + Fatiha + Zamm-ı Sure okunduktan sonra Rükûya gitmeden eller kaldırılıp **Tekbir** alınır ve **Kunut Duaları (1 ve 2)** okunur!"
+        },
+        {
+          "baslik": "Cuma Namazı - 1. İlk Sünnet (4 Rekat)",
+          "icerik": "Rehber Açıklaması:\nÖğle ilk sünneti gibi kılınır."
+        },
+        {
+          "baslik": "Cuma Namazı - 2. Hutbe ve Farz (2 Rekat)",
+          "icerik": "Rehber Açıklaması:\nHutbe dinlenir, ardından imamla 2 rekat Farz kılınır."
+        },
+        {
+          "baslik": "Cenaze Namazı ve Duası - 4 Tekbirli Kılınış",
+          "icerik": "Rehber Açıklaması:\n1. Tekbir sonrası Sübhaneke ('ve celle senâük' ile).\n2. Tekbir sonrası Salli-Barik.\n3. Tekbir sonrası Cenaze Duası.\n4. Tekbir sonrası Selam."
+        },
+        {
+          "baslik": "İstihare Namazı ve Duası - 2 Rekat Namaz ve İstihare Duası",
+          "icerik": "Rehber Açıklaması:\n2 rekat namaz sonrası okunacak dua."
+        },
+        {
+          "baslik": "Tesbih Namazı - Kılınış Düzeni",
+          "icerik": "Rehber Açıklaması:\nHer rekatta 75 defa 'Subhânallâhi ve'l-hamdü lillâhi ve lâ ilâhe illallâhü vallâhü ekber' denir."
+        },
+        {
+          "baslik": "Tüm Namaz Duaları (Arapça & Okunuş) - 1. Sübhaneke Duası",
+          "icerik": "Rehber Açıklaması:\n"
+        },
+        {
+          "baslik": "Tüm Namaz Duaları (Arapça & Okunuş) - 2. Ettehiyyâtü Duası",
+          "icerik": "Rehber Açıklaması:\n"
+        },
+        {
+          "baslik": "Tüm Namaz Duaları (Arapça & Okunuş) - 3. Allâhümme Salli & Bârik",
+          "icerik": "Rehber Açıklaması:\n"
+        },
+        {
+          "baslik": "Tüm Namaz Duaları (Arapça & Okunuş) - 4. Rabbenâ Âtinâ & Rabbenâğfirlî",
+          "icerik": "Rehber Açıklaması:\n"
+        },
+        {
+          "baslik": "Tüm Namaz Sureleri (Zamm-ı Sureler) - 1. Fâtiha Suresi",
+          "icerik": "Rehber Açıklaması:\n"
+        },
+        {
+          "baslik": "Tüm Namaz Sureleri (Zamm-ı Sureler) - 2. Kevser Suresi",
+          "icerik": "Rehber Açıklaması:\n"
+        },
+        {
+          "baslik": "Tüm Namaz Sureleri (Zamm-ı Sureler) - 3. İhlâs Suresi",
+          "icerik": "Rehber Açıklaması:\n"
+        },
+        {
+          "baslik": "Tüm Namaz Sureleri (Zamm-ı Sureler) - 4. Felak Suresi",
+          "icerik": "Rehber Açıklaması:\n"
+        },
+        {
+          "baslik": "Tüm Namaz Sureleri (Zamm-ı Sureler) - 5. Nâs Suresi",
+          "icerik": "Rehber Açıklaması:\n"
+        },
+        {
+          "baslik": "Dört Mezhebe Göre Namaz Farkları - 1. Niyet ve Tekbir",
+          "icerik": "Rehber Açıklaması:\nHanefi: Sadece başlarken kaldırılır. Şafiî: Rükûya giderken ve kalkarken de kaldırılır."
+        },
+        {
+          "baslik": "Dört Mezhebe Göre Namaz Farkları - 2. El Bağlama",
+          "icerik": "Rehber Açıklaması:\nHanefi: Göbek altında. Şafiî: Göğüs altında. Maliki: Yanda salınır."
+        },
+        {
+          "baslik": "Ezan ve Kamet - 1. Ezan",
+          "icerik": "Rehber Açıklaması:\nNamaz vakitlerini bildiren ilahi çağrı."
+        },
+        {
+          "baslik": "Ezan ve Kamet - 2. Ezan Duası",
+          "icerik": "Rehber Açıklaması:\nEzan bittikten sonra okunan şefaat duası."
+        },
+        {
+          "baslik": "Namaz Sonrası Tesbihat - 1. Salâten Tüncînâ veya Salavat",
+          "icerik": "Rehber Açıklaması:\nFarz namazın selamından sonra okunur."
+        },
+        {
+          "baslik": "Namaz Sonrası Tesbihat - 2. Ayetü'l-Kürsi",
+          "icerik": "Rehber Açıklaması:\nTesbih çekmeye başlamadan önce okunur."
+        },
+        {
+          "baslik": "Namaz Sonrası Tesbihat - 3. 33'lü Tesbihler",
+          "icerik": "Rehber Açıklaması:\nSubhanallah, Elhamdülillah, Allahuekber"
+        },
+        {
+          "baslik": "Şifa ve Ferahlık Ayetleri - 1. Sıkıntı ve Ferahlık İçin (İnşirah Suresi)",
+          "icerik": "Rehber Açıklaması:\nGöğüs darlığına ve sıkıntılara karşı okunur."
+        },
+        {
+          "baslik": "Şifa ve Ferahlık Ayetleri - 2. Şifa Ayeti",
+          "icerik": "Rehber Açıklaması:\nHastalık anında şifa niyetiyle okunur."
+        },
+        {
+          "baslik": "Peygamberimizden (s.a.v) Dualar - 1. Sabah ve Akşam Duası (Seyyidü'l İstiğfar)",
+          "icerik": "Rehber Açıklaması:\nTövbe istiğfarların efendisi kabul edilen dua."
+        }
+      ]
+    }
+  ]
+}

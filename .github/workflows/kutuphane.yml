@@ -1,6 +1,6 @@
-name: Kütüphane Derle
+﻿name: Kütüphane Derle
 
-# Botların ham verisini (eski depolar) okuyup temiz vera_kutuphane/ klasörünü üretir.
+# Botların ham verisini (eski depolar) ve kitaplar_kaynak/ klasörünü okuyup temiz vera_kutuphane/ klasörünü üretir.
 on:
   schedule:
     - cron: "30 3 * * *"     # her gün 06:30 (TR)
@@ -9,6 +9,7 @@ on:
     branches: [main]
     paths:
       - "scripts/**"
+      - "kitaplar_kaynak/**"
       - ".github/workflows/kutuphane.yml"
 
 # Aynı anda iki derleme çalışıp birbirinin üstüne yazmasın

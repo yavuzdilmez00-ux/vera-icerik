@@ -1,0 +1,36 @@
+{
+  "id": "zekat_book",
+  "baslik": "Zekat & Sadaka Rehberi",
+  "yazar": "Vera Fıkıh",
+  "renk": [
+    "#C5A028",
+    "#9A7B1C"
+  ],
+  "ciltler": [
+    {
+      "ad": "Nisap Miktarı & Zekat Fıkhı",
+      "sayfalar": [
+        {
+          "baslik": "Zekat Nedir ve Kimlere Farzdır?",
+          "icerik": "Zekat, nisap miktarı (80.18 gram altın veya dengi para/mal) malı olan ve üzerinden 1 kameri yıl geçen her Müslümana farzdır."
+        },
+        {
+          "baslik": "Zekat Verilecek Kimseler",
+          "icerik": "Tevbe Suresi 60. ayette belirtildiği üzere zekat; fakirlere, düşkünlere, zekat toplayan memurlara, gönülleri İslam'a ısındırılacak olanlara, kölelere, borçlulara, Allah yolunda olanlara ve yolda kalmışlara verilir."
+        },
+        {
+          "baslik": "Zekat Verilemeyecek Kimseler",
+          "icerik": "Kişi anne, baba, dede, nene gibi üst soyuna; çocuk ve torun gibi alt soyuna ve eşine zekat veremez."
+        },
+        {
+          "baslik": "Sadaka-i Fıtır (Fitre) Hükümleri",
+          "icerik": "Ramazan ayında verilen fitre, bayram namazından önce verilmesi gereken vacip bir sadakadır."
+        },
+        {
+          "baslik": "Sadaka Kültürü ve İnfak Bilinci",
+          "icerik": "Sadaka sadece para vermek değildir. Bir tebessüm, güzel bir söz, bir yol gösteriş veya darda olana yardım etmek de sadakadır."
+        }
+      ]
+    }
+  ]
+}

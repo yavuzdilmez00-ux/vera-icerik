@@ -160,6 +160,24 @@ def main():
          "renk": ["#7C3AED", "#4C1D95"], "ciltler": hikayeleri_topla(args.kaynak1, args.kaynak2)},
     ]
 
+    # Elle hazırlanmış (uygulamadan taşınan) kitaplar: kitaplar_kaynak/<id>.json
+    # Dosya adındaki sıra numarası (01_, 02_ …) Kütüphane'deki sırayı belirler; elle kitaplar önce gelir.
+    uretilen = {k["id"] for k in kitaplar}
+    elle = []
+    for yol in sorted(glob.glob("kitaplar_kaynak/*.json")):
+        try:
+            k = json.load(open(yol, encoding="utf-8"))
+        except Exception as e:
+            print(f"ATLANDI {yol}: {e}")
+            continue
+        if not k.get("id") or k["id"] in uretilen:
+            continue
+        ciltler = [c for c in k.get("ciltler", []) if c.get("ad") and c.get("sayfalar")]
+        elle.append({"id": k["id"], "baslik": k.get("baslik", ""), "yazar": k.get("yazar", "Vera Arşiv"),
+                     "renk": k.get("renk", ["#0F766E", "#134E4A"]), "ciltler": ciltler})
+        uretilen.add(k["id"])
+    kitaplar = elle + kitaplar
+
     manifest_yol = os.path.join(CIKTI, "manifest.json")
     eski = {}
     if os.path.exists(manifest_yol):

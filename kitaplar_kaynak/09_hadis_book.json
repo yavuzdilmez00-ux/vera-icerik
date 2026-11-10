@@ -1,0 +1,48 @@
+{
+  "id": "hadis_book",
+  "baslik": "Hadis Külliyatı & Sünnet",
+  "yazar": "Vera Hadis Arşivi",
+  "renk": [
+    "#06B6D4",
+    "#0891B2"
+  ],
+  "ciltler": [
+    {
+      "ad": "Sahih Hadisler & Nasihatler",
+      "sayfalar": [
+        {
+          "baslik": "Hadis-i Şerif: İhlas ve Niyet",
+          "icerik": "Resûlullah Efendimiz (s.a.v.) şöyle buyurmuştur:\n\n\"Ameller ancak niyetlere göredir. Herkes için ancak niyet ettiği şey vardır.\"\n\n— Hz. Ömer (r.a.) • Buhârî ve Müslim"
+        },
+        {
+          "baslik": "Hadis-i Şerif: Güzel Ahlak",
+          "icerik": "Resûlullah Efendimiz (s.a.v.) şöyle buyurmuştur:\n\n\"Müminlerin iman bakımından en mükemmeli, ahlakı en güzel olanıdır.\"\n\n— Hz. Ebu Hüreyrė (r.a.) • Tirmizî"
+        },
+        {
+          "baslik": "Hadis-i Şerif: Merhamet Etmek",
+          "icerik": "Resûlullah Efendimiz (s.a.v.) şöyle buyurmuştur:\n\n\"Merhamet etmeyene merhamet olunmaz. Yeryüzündekilere merhamet edin ki göktekiler de size merhamet etsin.\"\n\n— Hz. Cerir (r.a.) • Buhârî"
+        },
+        {
+          "baslik": "Hadis-i Şerif: Kur'an Öğrenmek",
+          "icerik": "Resûlullah Efendimiz (s.a.v.) şöyle buyurmuştur:\n\n\"Sizin en hayırlınız, Kur'an'ı öğrenen ve öğretendir.\"\n\n— Hz. Osman (r.a.) • Buhârî"
+        },
+        {
+          "baslik": "Hadis-i Şerif: Komşuluk Hakkı",
+          "icerik": "Resûlullah Efendimiz (s.a.v.) şöyle buyurmuştur:\n\n\"Cebrail bana komşu hakkında o kadar tavsiyede bulundu ki, onu neredeyse mirasa ortak kılacak sandım.\"\n\n— Hz. Âişe (r.a.) • Buhârî"
+        },
+        {
+          "baslik": "Hadis-i Şerif: Doğruluk ve Dürüstlük",
+          "icerik": "Resûlullah Efendimiz (s.a.v.) şöyle buyurmuştur:\n\n\"Şüphesiz doğruluk iyiliğe götürür, iyilik de cennete götürür.\"\n\n— Hz. İbn Mes'ud (r.a.) • Müslim"
+        },
+        {
+          "baslik": "Hadis-i Şerif: Tebessüm ve Sadaka",
+          "icerik": "Resûlullah Efendimiz (s.a.v.) şöyle buyurmuştur:\n\n\"Din kardeşinin yüzüne tebessüm etmen senin için bir sadakadır.\"\n\n— Hz. Ebu Zer (r.a.) • Tirmizî"
+        },
+        {
+          "baslik": "Hadis-i Şerif: İlim Öğrenmek",
+          "icerik": "Resûlullah Efendimiz (s.a.v.) şöyle buyurmuştur:\n\n\"İlim öğrenmek her Müslüman erkeğe ve kadına farzdır.\"\n\n— Hz. Enes (r.a.) • İbn Mâce"
+        }
+      ]
+    }
+  ]
+}

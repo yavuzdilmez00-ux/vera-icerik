@@ -1,0 +1,180 @@
+{
+  "id": "history_book",
+  "baslik": "İslam Tarihi Kronolojisi",
+  "yazar": "Vera Arşiv",
+  "renk": [
+    "#F59E0B",
+    "#D97706"
+  ],
+  "ciltler": [
+    {
+      "ad": "Nübüvvetten Günümüze İslam Medeniyeti",
+      "sayfalar": [
+        {
+          "baslik": "Başlangıç - Hz. Âdem (a.s.) ve Yaratılış",
+          "icerik": "İlk insan ve ilk peygamber Hz. Âdem'in (a.s.) yaratılışı. Cennetten yeryüzüne indirilişi, tövbesinin Arafat'ta kabulü ve yeryüzündeki ilk ibadethane olan Kâbe-i Muazzama'nın temellerinin atılması. Tevhid inancının yeryüzündeki serüveninin başlangıcı.\n\nDönem: Kadim Dönem"
+        },
+        {
+          "baslik": "Kadim Dönem - Hz. İdris (a.s.) ve İlmin Doğuşu",
+          "icerik": "Kalemle ilk yazı yazan, terzilik yapan ve astronomi gibi ilimlerin temellerini atan peygamber. Yüce Allah tarafından göklere (yüce bir makama) yükseltilişi ve ilmin insanlık tarihindeki nurani başlangıcı.\n\nDönem: Kadim Dönem"
+        },
+        {
+          "baslik": "Kadim Dönem - Hz. Nuh (a.s.) ve Büyük Tufan",
+          "icerik": "İnsanlığın ikinci babası Hz. Nuh'un (a.s.) 950 yıl süren sabırlı tebliği. İman etmeyen kavminin Büyük Tufan ile helak olması ve inananların azap gününde gemiyle kurtularak yeryüzünde yeni ve temiz bir hayat başlatması.\n\nDönem: Kadim Dönem"
+        },
+        {
+          "baslik": "Kadim Dönem - Hz. Hûd ve Hz. Salih (a.s.)",
+          "icerik": "Güç ve ihtişamlarına güvenip şirke düşen Âd kavmine Hz. Hûd'un, dağları yontarak evler yapan Semûd kavmine ise Hz. Salih'in gönderilmesi. Mucizevi dişi devenin kesilmesi ve isyankar kavimlerin ilahi azapla helakı.\n\nDönem: Kadim Dönem"
+        },
+        {
+          "baslik": "Kadim Dönem - Hz. İbrahim (a.s.) ve Tevhid Sancağı",
+          "icerik": "Nemrut'un devasa ateşine atılmasına rağmen Yüce Allah'ın ateşi 'serin ve selamet' kıldığı Halilullah (Allah'ın dostu) Hz. İbrahim'in putperestliğe karşı muazzam duruşu. Oğlu Hz. İsmail (a.s.) ile Kâbe'yi temellerinden yeniden inşa etmesi ve insanlığı hacca daveti.\n\nDönem: Kadim Dönem"
+        },
+        {
+          "baslik": "Kadim Dönem - Hz. Yusuf (a.s.) ve Sabrın Zirvesi",
+          "icerik": "Kardeşleri tarafından kuyuya atılan, köle olarak satılan, iftiraya uğrayıp zindana düşen Hz. Yusuf'un (a.s.) iffet ve sabır imtihanı. Rüya tabiri ilmiyle Mısır'a sultan olması ve affediciliğin en güzel örneğini sergilemesi.\n\nDönem: Kadim Dönem"
+        },
+        {
+          "baslik": "Kadim Dönem - Hz. Musa (a.s.) ve Tur Dağı",
+          "icerik": "Zalim Firavun'un sarayında büyüyüp ona hakkı tebliğ eden Kelimullah (Allah ile konuşan) Hz. Musa'nın destansı mücadelesi. Asasıyla Kızıldeniz'i yararak İsrailoğullarını zulümden kurtarması ve Tur Dağı'nda Tevrat'ın inzal olması.\n\nDönem: Kadim Dönem"
+        },
+        {
+          "baslik": "Kadim Dönem - Hz. Davud ve Hz. Süleyman (a.s.)",
+          "icerik": "Hz. Davud'a (a.s.) Zebur'un verilmesi, demiri hamur gibi işlemesi. Oğlu Hz. Süleyman'a (a.s.) ise rüzgara, cinlere ve hayvanlara hükmeden muazzam bir mülk (devlet) verilmesi. İlk kıblemiz Mescid-i Aksa'nın (Kudüs) inşası.\n\nDönem: Kadim Dönem"
+        },
+        {
+          "baslik": "1. Yüzyıl - Hz. İsa (a.s.) ve Hakka Davet",
+          "icerik": "Allah'ın mucizesi olarak babasız (Hz. Meryem'den) dünyaya gelen, beşikteyken konuşan Ruhullah Hz. İsa'nın (a.s.) hakka daveti. Kavmine İncil'in verilmesi, körleri ve cüzamlıları şifalandırması, ölüleri diriltmesi ve göğe yükseltilmesi.\n\nDönem: Kadim Dönem"
+        },
+        {
+          "baslik": "571 - Fil Vakası ve Kutlu Doğum (Mevlid)",
+          "icerik": "Kâbe'yi yıkmak için gelen Ebrehe ordusunun, Yüce Allah'ın gönderdiği Ebabil kuşlarıyla (siccil taşları) helak edilmesi. Bu hadiseden kısa süre sonra (Rebiülevvel ayının 12. gecesi), alemlere rahmet Peygamber Efendimiz Hz. Muhammed Mustafa'nın (s.a.v.) dünyayı teşrifleri.\n\nDönem: Asr-ı Saadet (Mekke)"
+        },
+        {
+          "baslik": "590 (Civarı) - Hılfu'l-Fudûl (Erdemliler İttifakı)",
+          "icerik": "Genç Muhammed'in (s.a.v.), Mekke'de zulme uğrayanların ve haksızlığa düşenlerin hakkını savunmak amacıyla kurulan yeminli cemiyete katılması. İslam'ın adalet anlayışının nübüvvet öncesi sarsılmaz bir yansıması.\n\nDönem: Asr-ı Saadet (Mekke)"
+        },
+        {
+          "baslik": "610 - İlk Vahiy ve Nübüvvet Güneşi",
+          "icerik": "Nur Dağı'ndaki Hira Mağarası'nda inzivadayken, Cebrail (a.s.) vasıtasıyla 'Oku!' (Alak Suresi) emrinin inzal olması. İnsanlık için cehalet karanlığından hidayet aydınlığına çıkışın başlangıcı ve Son Peygamberlik vazifesinin (Nübüvvet) tebliği.\n\nDönem: Asr-ı Saadet (Mekke)"
+        },
+        {
+          "baslik": "613 - Safa Tepesinde Açık Davet",
+          "icerik": "Üç yıl süren gizli tebliğin (Darü'l-Erkam dönemi) ardından, 'Yakın akrabanı uyar' ayetiyle İslam'a açıktan davetin başlaması. Safa Tepesi'nde Mekkelilere tevhidin haykırılması ve müşriklerin şiddetli direnişinin başlaması.\n\nDönem: Asr-ı Saadet (Mekke)"
+        },
+        {
+          "baslik": "615 - Habeşistan'a İlk Hicret",
+          "icerik": "Müşriklerin artan fiziksel zulüm ve işkenceleri üzerine (Yasir ailesinin şehadeti vb.), dini inançlarını özgürce yaşayabilmek için Hz. Osman ve Hz. Rukiye (r.a.) önderliğindeki ilk Müslüman kafilesinin, Hristiyan ama adaletli kral Necaşi'nin ülkesi Habeşistan'a göçü.\n\nDönem: Asr-ı Saadet (Mekke)"
+        },
+        {
+          "baslik": "616 - Hz. Hamza ve Hz. Ömer'in Müslüman Oluşu",
+          "icerik": "Önce 'Allah'ın Arslanı' Hz. Hamza'nın, hemen ardından Hz. Ömer'in (r.a.) art arda İslam'la şereflenmesi. Müslümanların Kâbe'de ilk kez açıktan, cemaatle ve tekbirlerle namaz kılarak büyük bir güç kazanması.\n\nDönem: Asr-ı Saadet (Mekke)"
+        },
+        {
+          "baslik": "616-619 - Boykot Yılları ve Hüzün Yılı",
+          "icerik": "Müşriklerin Haşimoğullarını Şi'b-i Ebi Talip (Ebu Talip Mahallesi) vadisine hapsederek uyguladığı 3 yıllık acımasız sosyal/ekonomik boykot. Boykotun hemen ardından, Efendimiz'in (s.a.v.) en büyük destekçileri olan zevcesi Hz. Hatice ile amcası Ebu Talip'in vefat ettiği 'Hüzün Yılı'.\n\nDönem: Asr-ı Saadet (Mekke)"
+        },
+        {
+          "baslik": "620 - Taif Yolculuğu ve Merhamet Duası",
+          "icerik": "Mekke'de daralan tebliğ çemberini kırmak için Taif'e giden Efendimiz'in (s.a.v.) taşlanarak şehirden çıkarılması. Kan revan içindeyken bile Cebrail'e 'Hayır, onların helakını değil, nesillerinden Allah'a inanan bir topluluk gelmesini dilerim' diyerek gösterdiği eşsiz merhamet.\n\nDönem: Asr-ı Saadet (Mekke)"
+        },
+        {
+          "baslik": "621 - İsra ve Miraç Mucizesi",
+          "icerik": "Peygamber Efendimiz'in (s.a.v.) bir gece Burak ile Mescid-i Haram'dan Mescid-i Aksa'ya yürütülmesi (İsra) ve oradan gök katlarını aşarak Sidretü'l-Münteha'ya, Yüce Allah'ın huzuruna yükseltilmesi (Miraç). Müminin miracı olan beş vakit namazın farz kılınması.\n\nDönem: Asr-ı Saadet (Mekke)"
+        },
+        {
+          "baslik": "621-622 - Akabe Biatları",
+          "icerik": "Medineli (Yesribli) hacıların, Mina yakınlarındaki Akabe mevkiinde Efendimiz (s.a.v.) ile gizlice görüşerek İslam'a girmeleri. Medine'de İslam'ın yayılmasının temellerinin atılması ve Efendimiz'e kanları pahasına koruma sözü (biat) vermeleri.\n\nDönem: Asr-ı Saadet (Mekke)"
+        },
+        {
+          "baslik": "622 - Büyük Hicret ve Kuba Mescidi",
+          "icerik": "Can güvenliği kalmayan Müslümanların ve en son Hz. Ebu Bekir (r.a.) ile birlikte Peygamber Efendimiz'in (s.a.v.) Mekke'den Medine'ye kutlu göçü. Yolculuk sırasında İslam'ın ilk mescidi olan 'Kuba Mescidi'nin inşa edilmesi. (Hicri Takvim başlangıcı)\n\nDönem: Asr-ı Saadet (Medine)"
+        },
+        {
+          "baslik": "623 - Mescid-i Nebevi ve Ashab-ı Suffe",
+          "icerik": "Medine'de Peygamber Efendimiz'in (s.a.v.) mescidinin (Mescid-i Nebevi) inşası. Mescidin bitişiğinde, kendini tamamen ilme, Kuran okumaya ve ibadete adayan fakir sahabeler için ilk İslam üniversitesi sayılan 'Suffe'nin kurulması.\n\nDönem: Asr-ı Saadet (Medine)"
+        },
+        {
+          "baslik": "624 - Bedir Gazvesi (Furkan Günü)",
+          "icerik": "İslam'ın ilk büyük hak-batıl mücadelesi. 313 kişilik iman ordusunun, Yüce Allah'ın inzal ettiği melek ordularının da desteğiyle, kendilerinden üç kat kalabalık müşrik ordusuna karşı kazandığı mutlak zafer.\n\nDönem: Asr-ı Saadet (Medine)"
+        },
+        {
+          "baslik": "625 - Uhud Gazvesi ve Tevekkül İmtihanı",
+          "icerik": "Müşriklerin intikam saldırısı. Okçular tepesindeki sahabenin emre itaatsizlik içtihadı sebebiyle Müslümanların ağır bir yara alması. Hz. Hamza'nın (r.a.) ve Mus'ab bin Umeyr gibi 70 güzide sahabenin şehadet makamına ulaşması.\n\nDönem: Asr-ı Saadet (Medine)"
+        },
+        {
+          "baslik": "627 - Hendek (Ahzab) Gazvesi",
+          "icerik": "Müşriklerin ve ihanet eden kabilelerin on bin kişilik bir orduyla Medine'yi yok etmek için kuşatması. Selman-ı Farisi'nin (r.a.) ferasetiyle şehrin etrafına hendekler kazılarak yapılan destansı savunma ve şirkin son büyük taarruzunun ilahi fırtınayla bertaraf edilmesi.\n\nDönem: Asr-ı Saadet (Medine)"
+        },
+        {
+          "baslik": "628 - Hudeybiye Barış Antlaşması",
+          "icerik": "Kâbe'yi umre amacıyla ziyaret etmek isteyen Müslümanların müşrikler tarafından engellenmesi üzerine yapılan siyasi antlaşma. Kur'an'da 'Feth-i Mübin' (Açık Bir Fetih) müjdesi verilen bu barış ortamında, İslam Arap yarımadasında hızla yayıldı.\n\nDönem: Asr-ı Saadet (Medine)"
+        },
+        {
+          "baslik": "629 - Hayber'in Fethi ve Mute Savaşı",
+          "icerik": "Medine'ye ihanet eden Yahudi kabilelerinin sığınağı Hayber kalesinin Hz. Ali'nin (r.a.) efsanevi kahramanlığıyla fethedilmesi. Aynı yıl, Bizans'a karşı yapılan ilk çarpışma olan Mute Savaşı'nda Zeyd, Cafer ve Abdullah bin Revaha'nın (r.a.) peş peşe şehadeti.\n\nDönem: Asr-ı Saadet (Medine)"
+        },
+        {
+          "baslik": "630 - Mekke'nin Fethi",
+          "icerik": "On bin kişilik ihtişamlı İslam ordusunun tek damla kan dökmeden Mekke'ye girmesi. Kâbe'nin putlardan temizlenerek tevhidin asıl merkezine dönüşmesi. Efendimiz'in (s.a.v.) kendisini yurdundan edenlere karşı eşsiz bir 'Genel Af' ilan etmesi.\n\nDönem: Asr-ı Saadet (Medine)"
+        },
+        {
+          "baslik": "630 - Huneyn Gazvesi ve Taif Kuşatması",
+          "icerik": "Mekke fethinin ardından, putperest Hevazin ve Sakif kabilelerinin İslam ordusuna pusu kurması. Başlangıçta yaşanan paniğin Efendimiz'in (s.a.v.) sebatıyla zafere dönüşmesi (Huneyn) ve ardından Taif'in kuşatılması.\n\nDönem: Asr-ı Saadet (Medine)"
+        },
+        {
+          "baslik": "631 - Tebük Seferi ve Elçiler Yılı",
+          "icerik": "Bizans'ın büyük bir ordu hazırladığı haberi üzerine yaz sıcağında çıkılan son ve en zorlu sefer. Savaş olmadan geri dönülmesi. Aynı yıl, Arap yarımadasındaki tüm kabilelerin heyetler göndererek akın akın İslam'a girmesi (Senetü'l-Vüfud).\n\nDönem: Asr-ı Saadet (Medine)"
+        },
+        {
+          "baslik": "632 - Veda Haccı ve 'Refik-i Âlâ'ya Vuslat",
+          "icerik": "Peygamber Efendimiz'in (s.a.v.) 100 bini aşkın sahabeye okuduğu evrensel bir insan hakları, kadın hakları ve İslam ahlakı beyannamesi olan 'Veda Hutbesi'. Dinin tamamlandığı müjdesinden kısa süre sonra Efendimiz'in Medine'de Hakk'a yürümesi.\n\nDönem: Asr-ı Saadet (Medine)"
+        },
+        {
+          "baslik": "632-634 - Hz. Ebu Bekir (r.a.) Dönemi ve Mushaf",
+          "icerik": "Efendimiz'in sadık dostu ve 'Sıddık'ı. Dinden dönme (Ridde) hareketleri ve sahte peygamberler isyanlarının sükunetle bastırılması. Yemame'de hafızların şehit olması üzerine Kur'an-ı Kerim ayetlerinin toplanarak 'Mushaf' (İki kapak arası) haline getirilmesi.\n\nDönem: Hulefa-i Raşidin"
+        },
+        {
+          "baslik": "634-644 - Hz. Ömer (r.a.) Dönemi ve Adalet",
+          "icerik": "Adaletin ve dirayetin sembolü olan devir. Sasani ve Bizans'a karşı büyük zaferler. İslam devletinin kurumsallaşması (Divan, Beytülmal, Posta, Hicri Takvim). Kudüs'ün, kan dökülmeden ve Hristiyanlara tam inanç özgürlüğü veren 'Ömer Ahitnamesi' ile fethedilmesi.\n\nDönem: Hulefa-i Raşidin"
+        },
+        {
+          "baslik": "644-656 - Hz. Osman (r.a.) Dönemi ve Kur'an'ın Çoğaltılması",
+          "icerik": "Haya, edep ve hilm timsali üçüncü halife devri. İslam'ın sınırlarının Horasan'dan Kuzey Afrika'ya uzanması. En önemli dini icraatı: Ana Mushaf'ın çoğaltılarak (istinsah) şiveler arası ihtilafı önlemek için Mekke, Şam, Kufe ve Basra gibi merkezlere gönderilmesi.\n\nDönem: Hulefa-i Raşidin"
+        },
+        {
+          "baslik": "656-661 - Hz. Ali (r.a.) Dönemi ve İlim",
+          "icerik": "İlim, irfan, hikmet ve cesaretin kapısı dördüncü halife devri. İslam ümmeti içinde fitnelerin körüklendiği, Cemel ve Sıffin gibi üzücü ve acı verici iç imtihanların (ictihad farklılıklarının) yaşandığı dönem. Başkentin Medine'den Kufe'ye taşınması.\n\nDönem: Hulefa-i Raşidin"
+        },
+        {
+          "baslik": "680 - Kerbela Hadisesi (Aşura Günü)",
+          "icerik": "Peygamber Efendimiz'in (s.a.v.) 'Cennet gençlerinin efendisi' buyurduğu torunu Hz. Hüseyin (r.a.) ve Ehl-i Beyt'ten 72 masum canın, Kerbela'da haksızlığa boyun eğmeyerek şehadet şerbetini içmesi. Ümmetin kalbindeki dinmeyen sızı.\n\nDönem: İslam Tarihi"
+        },
+        {
+          "baslik": "717-720 - Ömer bin Abdülaziz Dönemi",
+          "icerik": "Adaleti, takvası ve zühdü sebebiyle 'Beşinci Hulefa-i Raşidin' kabul edilen mübarek Emevi halifesi. Toplumsal adaletsizlikleri bitirmesi, bid'atleri kaldırması ve kısa sürede İslam dünyasına benzersiz bir manevi huzur, refah ve 'İkinci Asr-ı Saadet' yaşatması.\n\nDönem: İslam Tarihi"
+        },
+        {
+          "baslik": "8. Yüzyıl - Hasan-ı Basri ve Manevi Neşvenin Doğuşu",
+          "icerik": "Tabiun neslinin en büyük alimlerinden Hasan-ı Basri hazretlerinin öncülüğünde, dünyaya dalmaya karşı zühd (takva, maneviyat, dünyaya meyletmeme) ve ihsan şuurunun sistemleşmeye başlaması. İslami tasavvufi düşüncenin kök salması.\n\nDönem: İslami İlimler"
+        },
+        {
+          "baslik": "8-9. Yüzyıl - Fıkıh Mezheplerinin Teşekkülü",
+          "icerik": "İslami ibadet ve muamelat hayatını Kur'an ve Sünnet ışığında sistemleştiren devasa müctehid imamların (İmam Ebu Hanife, İmam Malik, İmam Şafii, İmam Ahmed bin Hanbel) fıkhi okullarının (mezheplerinin) İslam dünyasında şekillenip olgunlaşması.\n\nDönem: İslami İlimler"
+        },
+        {
+          "baslik": "9. Yüzyıl - Hadislerin Tedvini ve Kütüb-i Sitte",
+          "icerik": "Peygamber Efendimiz'in (s.a.v.) mübarek söz, fiil ve sünnetlerinin hassasiyetle derlenip (tedvin) konularına göre tasnif edilmesi. İmam Buhari, Müslim, Tirmizi, Ebu Davud, Nesai ve İbn Mace tarafından en güvenilir altı hadis kitabının (Kütüb-i Sitte) telif edilmesi.\n\nDönem: İslami İlimler"
+        },
+        {
+          "baslik": "11. Yüzyıl - İmam Gazali ve İhyâu Ulûmiddin",
+          "icerik": "İslam inancını (Akide) sarsmaya çalışan felsefi ve batıni akımlara karşı duran 'Hüccetü'l-İslam' (İslam'ın delili) İmam Gazali'nin zuhuru. Kalbî hastalıkları tedavi edip İslami ilimleri ruhaniyetiyle yeniden canlandıran muazzam eseri İhyâu Ulûmiddin'i yazması.\n\nDönem: İslami İlimler"
+        },
+        {
+          "baslik": "13. Yüzyıl - Mevlânâ, Yunus Emre ve Anadolu'nun İrşadı",
+          "icerik": "Moğol istilalarının İslam dünyasını yıktığı karanlık bir asırda; Hz. Mevlânâ (Mesnevi), Yunus Emre, Hacı Bektaş-ı Veli ve Muhyiddin İbnü'l-Arabi gibi maneviyat güneşlerinin doğması. İslam ahlakını, ilahi aşkı ve hoşgörüyü kalplere nakşederek ümmete umut olmaları.\n\nDönem: İslam Tarihi"
+        }
+      ]
+    }
+  ]
+}

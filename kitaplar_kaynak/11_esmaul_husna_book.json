@@ -1,0 +1,412 @@
+{
+  "id": "esmaul_husna_book",
+  "baslik": "Esmaül Hüsna",
+  "yazar": "Vera Arşiv",
+  "renk": [
+    "#FACC15",
+    "#CA8A04"
+  ],
+  "ciltler": [
+    {
+      "ad": "Allah'ın 99 İsmi ve Anlamları",
+      "sayfalar": [
+        {
+          "baslik": "1. Allah (اللَّهُ)",
+          "icerik": "Türkçe İsmi: Allah\nArapça Yazılışı: اللَّهُ\n\nDerin Anlamı:\nKendinden başka ilah bulunmayan.\n\nManevi Fazileti & Sırları:\nHer türlü dileğin kabulü için.\n\nEbced Zikir Sayısı: 66"
+        },
+        {
+          "baslik": "2. Er-Rahmân (الرَّحْمَنُ)",
+          "icerik": "Türkçe İsmi: Er-Rahmân\nArapça Yazılışı: الرَّحْمَنُ\n\nDerin Anlamı:\nBütün yaratılmışlara merhamet eden.\n\nManevi Fazileti & Sırları:\nDünya ve ahirette Allah'ın sevgisini kazanmak için.\n\nEbced Zikir Sayısı: 298"
+        },
+        {
+          "baslik": "3. Er-Rahîm (الرَّحِيمُ)",
+          "icerik": "Türkçe İsmi: Er-Rahîm\nArapça Yazılışı: الرَّحِيمُ\n\nDerin Anlamı:\nAhirette, müminlere sonsuz ikramda bulunan.\n\nManevi Fazileti & Sırları:\nMaddi ve manevi rızıkların bereketlenmesi için.\n\nEbced Zikir Sayısı: 258"
+        },
+        {
+          "baslik": "4. El-Melik (الْمَلِكُ)",
+          "icerik": "Türkçe İsmi: El-Melik\nArapça Yazılışı: الْمَلِكُ\n\nDerin Anlamı:\nMülkün, kâinatın sahibi, mülk ve saltanatı devamlı olan.\n\nManevi Fazileti & Sırları:\nMaddi manevi güçlü olmak ve saygınlık için.\n\nEbced Zikir Sayısı: 90"
+        },
+        {
+          "baslik": "5. El-Kuddûs (الْقُدُّوسُ)",
+          "icerik": "Türkçe İsmi: El-Kuddûs\nArapça Yazılışı: الْقُدُّوسُ\n\nDerin Anlamı:\nHer türlü eksiklikten uzak, bütün noksanlıklardan münezzeh.\n\nManevi Fazileti & Sırları:\nKötü ahlaktan ve kalp hastalıklarından kurtulmak için.\n\nEbced Zikir Sayısı: 170"
+        },
+        {
+          "baslik": "6. Es-Selâm (السَّلَامُ)",
+          "icerik": "Türkçe İsmi: Es-Selâm\nArapça Yazılışı: السَّلَامُ\n\nDerin Anlamı:\nKullarına selamet veren, tehlikelerden esirgeyen.\n\nManevi Fazileti & Sırları:\nKorkulardan emin olmak ve huzura kavuşmak için.\n\nEbced Zikir Sayısı: 131"
+        },
+        {
+          "baslik": "7. El-Mü'min (الْمُؤْمِنُ)",
+          "icerik": "Türkçe İsmi: El-Mü'min\nArapça Yazılışı: الْمُؤْمِنُ\n\nDerin Anlamı:\nGönüllerde iman ışığı uyandıran, kendine sığınanları koruyan.\n\nManevi Fazileti & Sırları:\nKötü niyetli insanların şerrinden korunmak için.\n\nEbced Zikir Sayısı: 137"
+        },
+        {
+          "baslik": "8. El-Müheymin (الْمُهَيْمِنُ)",
+          "icerik": "Türkçe İsmi: El-Müheymin\nArapça Yazılışı: الْمُهَيْمِنُ\n\nDerin Anlamı:\nGözeten ve koruyan, her şeyin yönetimini elinde tutan.\n\nManevi Fazileti & Sırları:\nİnsanların sevgisini kazanmak ve korunmak için.\n\nEbced Zikir Sayısı: 145"
+        },
+        {
+          "baslik": "9. El-Azîz (الْعَزِيزُ)",
+          "icerik": "Türkçe İsmi: El-Azîz\nArapça Yazılışı: الْعَزِيزُ\n\nDerin Anlamı:\nYegane galip, izzet ve azamet sahibi olan.\n\nManevi Fazileti & Sırları:\nDüşmanlara galip gelmek ve ezilmemek için.\n\nEbced Zikir Sayısı: 94"
+        },
+        {
+          "baslik": "10. El-Cebbâr (الْجَبَّارُ)",
+          "icerik": "Türkçe İsmi: El-Cebbâr\nArapça Yazılışı: الْجَبَّارُ\n\nDerin Anlamı:\nKırılanları onaran, dilediğini zorla yaptırmaya muktedir olan.\n\nManevi Fazileti & Sırları:\nİsteklerin kabul olması ve zalimlerin şerrinden korunmak için.\n\nEbced Zikir Sayısı: 206"
+        },
+        {
+          "baslik": "11. El-Mütekkebir (الْمُتَكَبِّرُ)",
+          "icerik": "Türkçe İsmi: El-Mütekkebir\nArapça Yazılışı: الْمُتَكَبِّرُ\n\nDerin Anlamı:\nHer şeyde büyüklüğünü gösteren, azamet sahibi.\n\nManevi Fazileti & Sırları:\nİzzet, şeref ve rızık genişliği elde etmek için.\n\nEbced Zikir Sayısı: 662"
+        },
+        {
+          "baslik": "12. El-Hâlık (الْخَالِقُ)",
+          "icerik": "Türkçe İsmi: El-Hâlık\nArapça Yazılışı: الْخَالِقُ\n\nDerin Anlamı:\nHer şeyi yoktan var eden, yaratan.\n\nManevi Fazileti & Sırları:\nİşlerde başarıya ulaşmak ve sıkıntılardan kurtulmak için.\n\nEbced Zikir Sayısı: 731"
+        },
+        {
+          "baslik": "13. El-Bâri (الْبَارِئُ)",
+          "icerik": "Türkçe İsmi: El-Bâri\nArapça Yazılışı: الْبَارِئُ\n\nDerin Anlamı:\nHer şeyi kusursuz ve uyumlu yaratan.\n\nManevi Fazileti & Sırları:\nMaddi ve manevi hastalıklardan şifa bulmak için.\n\nEbced Zikir Sayısı: 214"
+        },
+        {
+          "baslik": "14. El-Musavvir (الْمُصَوِّرُ)",
+          "icerik": "Türkçe İsmi: El-Musavvir\nArapça Yazılışı: الْمُصَوِّرُ\n\nDerin Anlamı:\nVarlıklara şekil ve suret veren.\n\nManevi Fazileti & Sırları:\nZor işlerin kolaylaşması ve başarı için.\n\nEbced Zikir Sayısı: 336"
+        },
+        {
+          "baslik": "15. El-Gaffâr (الْغَفَّارُ)",
+          "icerik": "Türkçe İsmi: El-Gaffâr\nArapça Yazılışı: الْغَفَّارُ\n\nDerin Anlamı:\nGünahları çokça bağışlayan, örten.\n\nManevi Fazileti & Sırları:\nGünahların affı ve cehennem azabından korunmak için.\n\nEbced Zikir Sayısı: 1281"
+        },
+        {
+          "baslik": "16. El-Kahhâr (الْقَهَّارُ)",
+          "icerik": "Türkçe İsmi: El-Kahhâr\nArapça Yazılışı: الْقَهَّارُ\n\nDerin Anlamı:\nHer şeye galip gelen, gücüyle her şeyi kahreden.\n\nManevi Fazileti & Sırları:\nNefse hakim olmak ve düşmanları alt etmek için.\n\nEbced Zikir Sayısı: 306"
+        },
+        {
+          "baslik": "17. El-Vehhâb (الْوَهَّابُ)",
+          "icerik": "Türkçe İsmi: El-Vehhâb\nArapça Yazılışı: الْوَهَّابُ\n\nDerin Anlamı:\nKarşılıksız, bolca nimet veren, ihsan eden.\n\nManevi Fazileti & Sırları:\nNimet ve rızık bolluğu, maddi rahatlık için.\n\nEbced Zikir Sayısı: 14"
+        },
+        {
+          "baslik": "18. Er-Rezzâk (الرَّزَّاقُ)",
+          "icerik": "Türkçe İsmi: Er-Rezzâk\nArapça Yazılışı: الرَّزَّاقُ\n\nDerin Anlamı:\nRızka muhtaç olan her varlığın rızkını veren.\n\nManevi Fazileti & Sırları:\nRızık darlığı çekmemek ve bol kazanç için.\n\nEbced Zikir Sayısı: 308"
+        },
+        {
+          "baslik": "19. El-Fettâh (الْفَتَّاحُ)",
+          "icerik": "Türkçe İsmi: El-Fettâh\nArapça Yazılışı: الْفَتَّاحُ\n\nDerin Anlamı:\nHer türlü müşkülleri açan ve kolaylaştıran.\n\nManevi Fazileti & Sırları:\nMaddi ve manevi kapıların açılması, başarı için.\n\nEbced Zikir Sayısı: 489"
+        },
+        {
+          "baslik": "20. El-Alîm (الْعَلِيمُ)",
+          "icerik": "Türkçe İsmi: El-Alîm\nArapça Yazılışı: الْعَلِيمُ\n\nDerin Anlamı:\nHer şeyi hakkıyla, en ince detayına kadar bilen.\n\nManevi Fazileti & Sırları:\nİlim ve irfanın artması, zihin açıklığı için.\n\nEbced Zikir Sayısı: 150"
+        },
+        {
+          "baslik": "21. El-Kâbıd (الْقَابِضُ)",
+          "icerik": "Türkçe İsmi: El-Kâbıd\nArapça Yazılışı: الْقَابِضُ\n\nDerin Anlamı:\nDilediğine rızkı daraltan, ruhları kabzeden.\n\nManevi Fazileti & Sırları:\nZalimlerin şerrinden korunmak ve nefsi terbiye için.\n\nEbced Zikir Sayısı: 903"
+        },
+        {
+          "baslik": "22. El-Bâsıt (الْبَاسِطُ)",
+          "icerik": "Türkçe İsmi: El-Bâsıt\nArapça Yazılışı: الْبَاسِطُ\n\nDerin Anlamı:\nDilediğine rızkı açan, genişleten.\n\nManevi Fazileti & Sırları:\nRızkın bollaşması, korkulardan emin olmak için.\n\nEbced Zikir Sayısı: 72"
+        },
+        {
+          "baslik": "23. El-Hâfıd (الْخَافِضُ)",
+          "icerik": "Türkçe İsmi: El-Hâfıd\nArapça Yazılışı: الْخَافِضُ\n\nDerin Anlamı:\nYukarıdan aşağıya indiren, alçaltan.\n\nManevi Fazileti & Sırları:\nKötü niyetli kişilerin zararlarını önlemek için.\n\nEbced Zikir Sayısı: 1481"
+        },
+        {
+          "baslik": "24. Er-Râfi (الرَّافِعُ)",
+          "icerik": "Türkçe İsmi: Er-Râfi\nArapça Yazılışı: الرَّافِعُ\n\nDerin Anlamı:\nYukarı kaldıran, dereceleri yükselten.\n\nManevi Fazileti & Sırları:\nİnsanlar arasında yükselmek, şan ve şeref için.\n\nEbced Zikir Sayısı: 351"
+        },
+        {
+          "baslik": "25. El-Muizz (الْمُعِزُّ)",
+          "icerik": "Türkçe İsmi: El-Muizz\nArapça Yazılışı: الْمُعِزُّ\n\nDerin Anlamı:\nDilediğine izzet veren, aziz kılan.\n\nManevi Fazileti & Sırları:\nFakirler ve zayıflar karşısında güçlü olmak için.\n\nEbced Zikir Sayısı: 117"
+        },
+        {
+          "baslik": "26. El-Müzill (الْمُذِلُّ)",
+          "icerik": "Türkçe İsmi: El-Müzill\nArapça Yazılışı: الْمُذِلُّ\n\nDerin Anlamı:\nDilediğini zillete düşüren, alçaltan.\n\nManevi Fazileti & Sırları:\nHasetçilerden ve düşmanlardan korunmak için.\n\nEbced Zikir Sayısı: 770"
+        },
+        {
+          "baslik": "27. Es-Semî (السَّمِيعُ)",
+          "icerik": "Türkçe İsmi: Es-Semî\nArapça Yazılışı: السَّمِيعُ\n\nDerin Anlamı:\nHer şeyi en iyi işiten, duaları kabul eden.\n\nManevi Fazileti & Sırları:\nDuaların kabul olması ve kulak rahatsızlıkları için.\n\nEbced Zikir Sayısı: 180"
+        },
+        {
+          "baslik": "28. El-Basîr (الْبَصِيرُ)",
+          "icerik": "Türkçe İsmi: El-Basîr\nArapça Yazılışı: الْبَصِيرُ\n\nDerin Anlamı:\nHer şeyi en iyi gören ve takip eden.\n\nManevi Fazileti & Sırları:\nGözlerin nurlanması ve basiret açıklığı için.\n\nEbced Zikir Sayısı: 302"
+        },
+        {
+          "baslik": "29. El-Hakem (الْحَكَمُ)",
+          "icerik": "Türkçe İsmi: El-Hakem\nArapça Yazılışı: الْحَكَمُ\n\nDerin Anlamı:\nMutlak hakim, hakkı batıldan ayıran.\n\nManevi Fazileti & Sırları:\nİşlerin hakkaniyetle çözülmesi ve adalet için.\n\nEbced Zikir Sayısı: 68"
+        },
+        {
+          "baslik": "30. El-Adl (الْعَدْلُ)",
+          "icerik": "Türkçe İsmi: El-Adl\nArapça Yazılışı: الْعَدْلُ\n\nDerin Anlamı:\nMutlak adil olan, her şeyi adaletle yapan.\n\nManevi Fazileti & Sırları:\nDoğru kararlar vermek ve adaleti bulmak için.\n\nEbced Zikir Sayısı: 104"
+        },
+        {
+          "baslik": "31. El-Latîf (اللَّطِيفُ)",
+          "icerik": "Türkçe İsmi: El-Latîf\nArapça Yazılışı: اللَّطِيفُ\n\nDerin Anlamı:\nEn ince işlerin sırlarını bilen, lütufkar.\n\nManevi Fazileti & Sırları:\nDileklerin kabulü, rızık ve hidayet için.\n\nEbced Zikir Sayısı: 129"
+        },
+        {
+          "baslik": "32. El-Habîr (الْخَبِيرُ)",
+          "icerik": "Türkçe İsmi: El-Habîr\nArapça Yazılışı: الْخَبِيرُ\n\nDerin Anlamı:\nHer şeyin iç yüzünden, gizli tarafından haberdar.\n\nManevi Fazileti & Sırları:\nGizli şeylerin aşikar olması ve hafıza için.\n\nEbced Zikir Sayısı: 812"
+        },
+        {
+          "baslik": "33. El-Halîm (الْحَلِيمُ)",
+          "icerik": "Türkçe İsmi: El-Halîm\nArapça Yazılışı: الْحَلِيمُ\n\nDerin Anlamı:\nCezalandırmada acele etmeyen, yumuşak davranan.\n\nManevi Fazileti & Sırları:\nAhlak güzelliği, öfkenin dinmesi ve huzur için.\n\nEbced Zikir Sayısı: 88"
+        },
+        {
+          "baslik": "34. El-Azîm (الْعَظِيمُ)",
+          "icerik": "Türkçe İsmi: El-Azîm\nArapça Yazılışı: الْعَظِيمُ\n\nDerin Anlamı:\nAzameti çok yüce olan, sınırı olmayan.\n\nManevi Fazileti & Sırları:\nSaygınlık kazanmak ve korkulardan emin olmak için.\n\nEbced Zikir Sayısı: 1020"
+        },
+        {
+          "baslik": "35. El-Gafûr (الْغَفُورُ)",
+          "icerik": "Türkçe İsmi: El-Gafûr\nArapça Yazılışı: الْغَفُورُ\n\nDerin Anlamı:\nMagfireti bol, günahları bağışlayan.\n\nManevi Fazileti & Sırları:\nGünahların affı ve kötü ahlaktan kurtulmak için.\n\nEbced Zikir Sayısı: 1286"
+        },
+        {
+          "baslik": "36. Eş-Şekûr (الشَّكُورُ)",
+          "icerik": "Türkçe İsmi: Eş-Şekûr\nArapça Yazılışı: الشَّكُورُ\n\nDerin Anlamı:\nAz amele bile çok sevap veren, şükrün karşılığını veren.\n\nManevi Fazileti & Sırları:\nNimetlerin artması ve bereket için.\n\nEbced Zikir Sayısı: 526"
+        },
+        {
+          "baslik": "37. El-Aliyy (الْعَلِيُّ)",
+          "icerik": "Türkçe İsmi: El-Aliyy\nArapça Yazılışı: الْعَلِيُّ\n\nDerin Anlamı:\nYücelikte eşi benzeri olmayan, en yüce.\n\nManevi Fazileti & Sırları:\nİlim, rütbe ve makamın yükselmesi için.\n\nEbced Zikir Sayısı: 110"
+        },
+        {
+          "baslik": "38. El-Kebîr (الْكَبِيرُ)",
+          "icerik": "Türkçe İsmi: El-Kebîr\nArapça Yazılışı: الْكَبِيرُ\n\nDerin Anlamı:\nBüyüklükte kendisinden daha büyüğü olmayan.\n\nManevi Fazileti & Sırları:\nHürmet görmek ve makam elde etmek için.\n\nEbced Zikir Sayısı: 232"
+        },
+        {
+          "baslik": "39. El-Hafîz (الْحَفِيظُ)",
+          "icerik": "Türkçe İsmi: El-Hafîz\nArapça Yazılışı: الْحَفِيظُ\n\nDerin Anlamı:\nHer şeyi koruyan, dengede tutan.\n\nManevi Fazileti & Sırları:\nTehlikelerden, belalardan ve nazardan korunmak için.\n\nEbced Zikir Sayısı: 998"
+        },
+        {
+          "baslik": "40. El-Mukît (الْمُقِيتُ)",
+          "icerik": "Türkçe İsmi: El-Mukît\nArapça Yazılışı: الْمُقِيتُ\n\nDerin Anlamı:\nHer varlığın azığını, gıdasını veren.\n\nManevi Fazileti & Sırları:\nMuhtaç duruma düşmemek ve rızık için.\n\nEbced Zikir Sayısı: 550"
+        },
+        {
+          "baslik": "41. El-Hasîb (الْحَسِيبُ)",
+          "icerik": "Türkçe İsmi: El-Hasîb\nArapça Yazılışı: الْحَسِيبُ\n\nDerin Anlamı:\nKullarının hesabını en iyi gören.\n\nManevi Fazileti & Sırları:\nKorkulardan emin olmak ve adil sonuçlar için.\n\nEbced Zikir Sayısı: 80"
+        },
+        {
+          "baslik": "42. El-Celîl (الْجَلِيلُ)",
+          "icerik": "Türkçe İsmi: El-Celîl\nArapça Yazılışı: الْجَلِيلُ\n\nDerin Anlamı:\nCelalet ve azamet sahibi, ulu.\n\nManevi Fazileti & Sırları:\nZalimlerin şerrinden korunmak ve heybet için.\n\nEbced Zikir Sayısı: 73"
+        },
+        {
+          "baslik": "43. El-Kerîm (الْكَرِيمُ)",
+          "icerik": "Türkçe İsmi: El-Kerîm\nArapça Yazılışı: الْكَرِيمُ\n\nDerin Anlamı:\nÇok ikram edici, keremi bol olan.\n\nManevi Fazileti & Sırları:\nDünya ve ahirette cömertlik ve kolaylık için.\n\nEbced Zikir Sayısı: 270"
+        },
+        {
+          "baslik": "44. Er-Rakîb (الرَّقِيبُ)",
+          "icerik": "Türkçe İsmi: Er-Rakîb\nArapça Yazılışı: الرَّقِيبُ\n\nDerin Anlamı:\nHer an her varlığı gözeten, kontrol eden.\n\nManevi Fazileti & Sırları:\nKötülüklerden korunmak ve aile huzuru için.\n\nEbced Zikir Sayısı: 312"
+        },
+        {
+          "baslik": "45. El-Mucîb (الْمُجِيبُ)",
+          "icerik": "Türkçe İsmi: El-Mucîb\nArapça Yazılışı: الْمُجِيبُ\n\nDerin Anlamı:\nDuaları, istekleri kabul eden, cevap veren.\n\nManevi Fazileti & Sırları:\nDuaların hızlıca kabul olunması için.\n\nEbced Zikir Sayısı: 55"
+        },
+        {
+          "baslik": "46. El-Vâsi (الْوَاسِعُ)",
+          "icerik": "Türkçe İsmi: El-Vâsi\nArapça Yazılışı: الْوَاسِعُ\n\nDerin Anlamı:\nİlmi, ihsanı ve rahmeti her şeyi kuşatan.\n\nManevi Fazileti & Sırları:\nÖmür, rızık ve gönül genişliği için.\n\nEbced Zikir Sayısı: 137"
+        },
+        {
+          "baslik": "47. El-Hakîm (الْحَكِيمُ)",
+          "icerik": "Türkçe İsmi: El-Hakîm\nArapça Yazılışı: الْحَكِيمُ\n\nDerin Anlamı:\nHer işi hikmetli, her şeyi yerli yerinde olan.\n\nManevi Fazileti & Sırları:\nHikmet sahibi olmak ve ilim öğrenmek için.\n\nEbced Zikir Sayısı: 78"
+        },
+        {
+          "baslik": "48. El-Vedûd (الْوَدُودُ)",
+          "icerik": "Türkçe İsmi: El-Vedûd\nArapça Yazılışı: الْوَدُودُ\n\nDerin Anlamı:\nKullarını çok seven, sevilmeye en layık olan.\n\nManevi Fazileti & Sırları:\nİnsanların sevgisini ve sempatisini kazanmak için.\n\nEbced Zikir Sayısı: 20"
+        },
+        {
+          "baslik": "49. El-Mecîd (الْمَجِيدُ)",
+          "icerik": "Türkçe İsmi: El-Mecîd\nArapça Yazılışı: الْمَجِيدُ\n\nDerin Anlamı:\nŞânı çok yüce ve büyük olan.\n\nManevi Fazileti & Sırları:\nİzzet, şeref ve rütbe kazanmak için.\n\nEbced Zikir Sayısı: 57"
+        },
+        {
+          "baslik": "50. El-Bâis (الْبَاعِثُ)",
+          "icerik": "Türkçe İsmi: El-Bâis\nArapça Yazılışı: الْبَاعِثُ\n\nDerin Anlamı:\nÖlüleri dirilten, peygamberler gönderen.\n\nManevi Fazileti & Sırları:\nGafletten uyanmak ve azimli olmak için.\n\nEbced Zikir Sayısı: 573"
+        },
+        {
+          "baslik": "51. Eş-Şehîd (الشَّهِيدُ)",
+          "icerik": "Türkçe İsmi: Eş-Şehîd\nArapça Yazılışı: الشَّهِيدُ\n\nDerin Anlamı:\nHer zaman ve her yerde hazır ve nazır olan.\n\nManevi Fazileti & Sırları:\nAsi çocukların ve eşlerin ıslahı için.\n\nEbced Zikir Sayısı: 319"
+        },
+        {
+          "baslik": "52. El-Hakk (الْحَقُّ)",
+          "icerik": "Türkçe İsmi: El-Hakk\nArapça Yazılışı: الْحَقُّ\n\nDerin Anlamı:\nVarlığı hiç değişmeden duran, mutlak gerçek.\n\nManevi Fazileti & Sırları:\nİşlerin doğru gitmesi ve batıldan korunmak için.\n\nEbced Zikir Sayısı: 108"
+        },
+        {
+          "baslik": "53. El-Vekîl (الْوَكِيلُ)",
+          "icerik": "Türkçe İsmi: El-Vekîl\nArapça Yazılışı: الْوَكِيلُ\n\nDerin Anlamı:\nKendine tevekkül edenlerin işlerini gören.\n\nManevi Fazileti & Sırları:\nAllah'ın yardımını almak ve işlerin kolaylaşması için.\n\nEbced Zikir Sayısı: 66"
+        },
+        {
+          "baslik": "54. El-Kaviyy (الْقَوِيُّ)",
+          "icerik": "Türkçe İsmi: El-Kaviyy\nArapça Yazılışı: الْقَوِيُّ\n\nDerin Anlamı:\nPek güçlü, kudretli, acizlikten uzak.\n\nManevi Fazileti & Sırları:\nKuvvetli olmak ve zayıflıktan kurtulmak için.\n\nEbced Zikir Sayısı: 116"
+        },
+        {
+          "baslik": "55. El-Metîn (الْمَتِينُ)",
+          "icerik": "Türkçe İsmi: El-Metîn\nArapça Yazılışı: الْمَتِينُ\n\nDerin Anlamı:\nÇok sağlam, sarsılmaz, gücü tükenmez.\n\nManevi Fazileti & Sırları:\nMaddi manevi dayanıklılık ve sebat için.\n\nEbced Zikir Sayısı: 500"
+        },
+        {
+          "baslik": "56. El-Veliyy (الْوَلِيُّ)",
+          "icerik": "Türkçe İsmi: El-Veliyy\nArapça Yazılışı: الْوَلِيُّ\n\nDerin Anlamı:\nMüminlerin dostu ve yardımcısı.\n\nManevi Fazileti & Sırları:\nAllah'ın dostluğunu kazanmak ve her işe yardım için.\n\nEbced Zikir Sayısı: 46"
+        },
+        {
+          "baslik": "57. El-Hamîd (الْحَمِيدُ)",
+          "icerik": "Türkçe İsmi: El-Hamîd\nArapça Yazılışı: الْحَمِيدُ\n\nDerin Anlamı:\nHer türlü övgüye layık olan.\n\nManevi Fazileti & Sırları:\nAhlak güzelliği ve insanların övgüsünü kazanmak için.\n\nEbced Zikir Sayısı: 62"
+        },
+        {
+          "baslik": "58. El-Muhsî (الْمُحْصِي)",
+          "icerik": "Türkçe İsmi: El-Muhsî\nArapça Yazılışı: الْمُحْصِي\n\nDerin Anlamı:\nHer şeyin sayısını tek tek bilen.\n\nManevi Fazileti & Sırları:\nZeka ve hafızanın kuvvetlenmesi için.\n\nEbced Zikir Sayısı: 148"
+        },
+        {
+          "baslik": "59. El-Mübdi (الْمُبْدِئُ)",
+          "icerik": "Türkçe İsmi: El-Mübdi\nArapça Yazılışı: الْمُبْدِئُ\n\nDerin Anlamı:\nMaddesiz ve örneksiz olarak ilk baştan yaratan.\n\nManevi Fazileti & Sırları:\nBaşlanan işlerde başarı elde etmek için.\n\nEbced Zikir Sayısı: 56"
+        },
+        {
+          "baslik": "60. El-Muîd (الْمُعِيدُ)",
+          "icerik": "Türkçe İsmi: El-Muîd\nArapça Yazılışı: الْمُعِيدُ\n\nDerin Anlamı:\nYarattıklarını yok ettikten sonra tekrar dirilten.\n\nManevi Fazileti & Sırları:\nElden çıkan şeyi geri kazanmak ve düzen için.\n\nEbced Zikir Sayısı: 124"
+        },
+        {
+          "baslik": "61. El-Muhyî (الْمُحْيِي)",
+          "icerik": "Türkçe İsmi: El-Muhyî\nArapça Yazılışı: الْمُحْيِي\n\nDerin Anlamı:\nCan bağışlayan, hayat veren.\n\nManevi Fazileti & Sırları:\nHafiflik, sağlık ve manevi uyanış için.\n\nEbced Zikir Sayısı: 68"
+        },
+        {
+          "baslik": "62. El-Mümît (الْمُمِيتُ)",
+          "icerik": "Türkçe İsmi: El-Mümît\nArapça Yazılışı: الْمُمِيتُ\n\nDerin Anlamı:\nCanlı bir mahlukatın ölümünü halkeden.\n\nManevi Fazileti & Sırları:\nNefsi yenmek ve düşman şerrinden korunmak için.\n\nEbced Zikir Sayısı: 490"
+        },
+        {
+          "baslik": "63. El-Hayy (الْحَيُّ)",
+          "icerik": "Türkçe İsmi: El-Hayy\nArapça Yazılışı: الْحَيُّ\n\nDerin Anlamı:\nEbedi hayata sahip, her şeyi bilen ve gücü yeten.\n\nManevi Fazileti & Sırları:\nUzun ömür ve sağlık için.\n\nEbced Zikir Sayısı: 18"
+        },
+        {
+          "baslik": "64. El-Kayyûm (الْقَيُّومُ)",
+          "icerik": "Türkçe İsmi: El-Kayyûm\nArapça Yazılışı: الْقَيُّومُ\n\nDerin Anlamı:\nGökleri, yeri ve her şeyi ayakta tutan.\n\nManevi Fazileti & Sırları:\nRızık bolluğu ve her işte düzen için.\n\nEbced Zikir Sayısı: 156"
+        },
+        {
+          "baslik": "65. El-Vâcid (الْوَاجِدُ)",
+          "icerik": "Türkçe İsmi: El-Vâcid\nArapça Yazılışı: الْوَاجِدُ\n\nDerin Anlamı:\nİstediğini, istediği anda bulan.\n\nManevi Fazileti & Sırları:\nKayıp şeyleri bulmak ve zenginlik için.\n\nEbced Zikir Sayısı: 14"
+        },
+        {
+          "baslik": "66. El-Mâcid (الْمَاجِدُ)",
+          "icerik": "Türkçe İsmi: El-Mâcid\nArapça Yazılışı: الْمَاجِدُ\n\nDerin Anlamı:\nKadr ü şânı büyük, kerem ve iyiliği bol olan.\n\nManevi Fazileti & Sırları:\nManevi nurlanma ve şan-şöhret için.\n\nEbced Zikir Sayısı: 48"
+        },
+        {
+          "baslik": "67. El-Vâhid (الْوَاحِدُ)",
+          "icerik": "Türkçe İsmi: El-Vâhid\nArapça Yazılışı: الْوَاحِدُ\n\nDerin Anlamı:\nZatında, sıfatlarında, işlerinde tek olan.\n\nManevi Fazileti & Sırları:\nGönül yalnızlığından kurtulmak ve netlik için.\n\nEbced Zikir Sayısı: 19"
+        },
+        {
+          "baslik": "68. Es-Samed (الصَّمَدُ)",
+          "icerik": "Türkçe İsmi: Es-Samed\nArapça Yazılışı: الصَّمَدُ\n\nDerin Anlamı:\nHerkesin kendisine muhtaç olduğu, kendisi kimseye muhtaç olmayan.\n\nManevi Fazileti & Sırları:\nHiç kimseye muhtaç olmamak için.\n\nEbced Zikir Sayısı: 134"
+        },
+        {
+          "baslik": "69. El-Kâdir (الْقَادِرُ)",
+          "icerik": "Türkçe İsmi: El-Kâdir\nArapça Yazılışı: الْقَادِرُ\n\nDerin Anlamı:\nDilediğini dilediği gibi yapmaya gücü yeten.\n\nManevi Fazileti & Sırları:\nİsteklerin gerçekleşmesi ve acizlikten kurtulmak için.\n\nEbced Zikir Sayısı: 305"
+        },
+        {
+          "baslik": "70. El-Muktedir (الْمُقْتَدِرُ)",
+          "icerik": "Türkçe İsmi: El-Muktedir\nArapça Yazılışı: الْمُقْتَدِرُ\n\nDerin Anlamı:\nHer şeye gücü yeten, tasarruf eden.\n\nManevi Fazileti & Sırları:\nİşlerde başarı ve güç sahibi olmak için.\n\nEbced Zikir Sayısı: 744"
+        },
+        {
+          "baslik": "71. El-Mukaddim (الْمُقَدِّمُ)",
+          "icerik": "Türkçe İsmi: El-Mukaddim\nArapça Yazılışı: الْمُقَدِّمُ\n\nDerin Anlamı:\nDilediğini öne alan, ileri geçiren.\n\nManevi Fazileti & Sırları:\nSınavlarda ve makamlarda yükselmek için.\n\nEbced Zikir Sayısı: 184"
+        },
+        {
+          "baslik": "72. El-Muahhir (الْمُؤَخِّرُ)",
+          "icerik": "Türkçe İsmi: El-Muahhir\nArapça Yazılışı: الْمُؤَخِّرُ\n\nDerin Anlamı:\nDilediğini arkaya bırakan, erteleyen.\n\nManevi Fazileti & Sırları:\nKötü durumları kendinden uzaklaştırmak için.\n\nEbced Zikir Sayısı: 846"
+        },
+        {
+          "baslik": "73. El-Evvel (الْأَوَّلُ)",
+          "icerik": "Türkçe İsmi: El-Evvel\nArapça Yazılışı: الْأَوَّلُ\n\nDerin Anlamı:\nVarlığının başlangıcı olmayan, ilk.\n\nManevi Fazileti & Sırları:\nGirişilen ilk işlerde başarı kazanmak için.\n\nEbced Zikir Sayısı: 37"
+        },
+        {
+          "baslik": "74. El-Âhir (الْآخِرُ)",
+          "icerik": "Türkçe İsmi: El-Âhir\nArapça Yazılışı: الْآخِرُ\n\nDerin Anlamı:\nVarlığının sonu olmayan, ebedi.\n\nManevi Fazileti & Sırları:\nUzun ömür ve hayırlı son için.\n\nEbced Zikir Sayısı: 801"
+        },
+        {
+          "baslik": "75. Ez-Zâhir (الظَّاهِرُ)",
+          "icerik": "Türkçe İsmi: Ez-Zâhir\nArapça Yazılışı: الظَّاهِرُ\n\nDerin Anlamı:\nVarlığı apaçık görünen.\n\nManevi Fazileti & Sırları:\nGizli meselelerin çözülmesi ve netlik için.\n\nEbced Zikir Sayısı: 1106"
+        },
+        {
+          "baslik": "76. El-Bâtın (الْبَاطِنُ)",
+          "icerik": "Türkçe İsmi: El-Bâtın\nArapça Yazılışı: الْبَاطِنُ\n\nDerin Anlamı:\nGizli olan, her şeyin iç yüzünü bilen.\n\nManevi Fazileti & Sırları:\nKalp gözünün açılması ve iç huzur için.\n\nEbced Zikir Sayısı: 62"
+        },
+        {
+          "baslik": "77. El-Vâlî (الْوَالِي)",
+          "icerik": "Türkçe İsmi: El-Vâlî\nArapça Yazılışı: الْوَالِي\n\nDerin Anlamı:\nKainatı ve içindeki her şeyi idare eden.\n\nManevi Fazileti & Sırları:\nYöneticilikte başarı ve sözünün geçmesi için.\n\nEbced Zikir Sayısı: 47"
+        },
+        {
+          "baslik": "78. El-Müteâlî (الْمُتَعَالِي)",
+          "icerik": "Türkçe İsmi: El-Müteâlî\nArapça Yazılışı: الْمُتَعَالِي\n\nDerin Anlamı:\nNoksanlıklardan yüce ve münezzeh olan.\n\nManevi Fazileti & Sırları:\nMakamın yükselmesi ve korunmak için.\n\nEbced Zikir Sayısı: 541"
+        },
+        {
+          "baslik": "79. El-Berr (الْبَرُّ)",
+          "icerik": "Türkçe İsmi: El-Berr\nArapça Yazılışı: الْبَرُّ\n\nDerin Anlamı:\nKullarına iyilik ve ihsanı bol olan.\n\nManevi Fazileti & Sırları:\nGüzel ahlak ve iyilik yollarının açılması için.\n\nEbced Zikir Sayısı: 202"
+        },
+        {
+          "baslik": "80. Et-Tevvâb (التَّوَّابُ)",
+          "icerik": "Türkçe İsmi: Et-Tevvâb\nArapça Yazılışı: التَّوَّابُ\n\nDerin Anlamı:\nTövbeleri kabul edip, günahları bağışlayan.\n\nManevi Fazileti & Sırları:\nTövbelerin kabulü ve günahlardan sıyrılmak için.\n\nEbced Zikir Sayısı: 409"
+        },
+        {
+          "baslik": "81. El-Müntakim (الْمُنْتَقِمُ)",
+          "icerik": "Türkçe İsmi: El-Müntakim\nArapça Yazılışı: الْمُنْتَقِمُ\n\nDerin Anlamı:\nSuçluları adaletiyle cezalandıran.\n\nManevi Fazileti & Sırları:\nZalimlerin ve düşmanların haksızlıklarına karşı.\n\nEbced Zikir Sayısı: 630"
+        },
+        {
+          "baslik": "82. El-Afüvv (الْعَفُوُّ)",
+          "icerik": "Türkçe İsmi: El-Afüvv\nArapça Yazılışı: الْعَفُوُّ\n\nDerin Anlamı:\nÇok affeden, günahları silen.\n\nManevi Fazileti & Sırları:\nGönül huzuru ve günah affı için.\n\nEbced Zikir Sayısı: 156"
+        },
+        {
+          "baslik": "83. Er-Raûf (الرَّؤُوفُ)",
+          "icerik": "Türkçe İsmi: Er-Raûf\nArapça Yazılışı: الرَّؤُوفُ\n\nDerin Anlamı:\nÇok şefkatli, merhamet edici.\n\nManevi Fazileti & Sırları:\nİnsanların kalbine merhamet salmak için.\n\nEbced Zikir Sayısı: 287"
+        },
+        {
+          "baslik": "84. Mâlikü'l-Mülk (مَالِكُ الْمُلْكِ)",
+          "icerik": "Türkçe İsmi: Mâlikü'l-Mülk\nArapça Yazılışı: مَالِكُ الْمُلْكِ\n\nDerin Anlamı:\nMülkün gerçek ve tek sahibi.\n\nManevi Fazileti & Sırları:\nMaddi durumun düzelmesi ve servet için.\n\nEbced Zikir Sayısı: 212"
+        },
+        {
+          "baslik": "85. Zü'l-Celâli ve'l-İkrâm (ذُو الْجَلَالِ وَالْإِكْرَامِ)",
+          "icerik": "Türkçe İsmi: Zü'l-Celâli ve'l-İkrâm\nArapça Yazılışı: ذُو الْجَلَالِ وَالْإِكْرَامِ\n\nDerin Anlamı:\nHem azamet hem de kerem sahibi olan.\n\nManevi Fazileti & Sırları:\nDuaların kabulü ve dünya-ahiret izzeti için.\n\nEbced Zikir Sayısı: 1100"
+        },
+        {
+          "baslik": "86. El-Muksit (الْمُقْسِطُ)",
+          "icerik": "Türkçe İsmi: El-Muksit\nArapça Yazılışı: الْمُقْسِطُ\n\nDerin Anlamı:\nHer şeyi birbirine uygun ve adaletle yapan.\n\nManevi Fazileti & Sırları:\nAile içi huzursuzlukların bitmesi için.\n\nEbced Zikir Sayısı: 209"
+        },
+        {
+          "baslik": "87. El-Câmi (الْجَامِعُ)",
+          "icerik": "Türkçe İsmi: El-Câmi\nArapça Yazılışı: الْجَامِعُ\n\nDerin Anlamı:\nİstediğini istediği zaman toplayan.\n\nManevi Fazileti & Sırları:\nKayıpları bulmak, ayrılanları birleştirmek için.\n\nEbced Zikir Sayısı: 114"
+        },
+        {
+          "baslik": "88. El-Ganiyye (الْغَنِيُّ)",
+          "icerik": "Türkçe İsmi: El-Ganiyye\nArapça Yazılışı: الْغَنِيُّ\n\nDerin Anlamı:\nÇok zengin, kimseye muhtaç olmayan.\n\nManevi Fazileti & Sırları:\nMaddi manevi zenginlik, rızık bolluğu için.\n\nEbced Zikir Sayısı: 1060"
+        },
+        {
+          "baslik": "89. El-Mugnî (الْمُغْنِي)",
+          "icerik": "Türkçe İsmi: El-Mugnî\nArapça Yazılışı: الْمُغْنِي\n\nDerin Anlamı:\nDilediğini zengin kılan.\n\nManevi Fazileti & Sırları:\nGeçim sıkıntısından kurtulmak için.\n\nEbced Zikir Sayısı: 1100"
+        },
+        {
+          "baslik": "90. El-Mâni (الْمَانِعُ)",
+          "icerik": "Türkçe İsmi: El-Mâni\nArapça Yazılışı: الْمَانِعُ\n\nDerin Anlamı:\nDilediği şeylerin gerçekleşmesine engel olan.\n\nManevi Fazileti & Sırları:\nKaza, bela ve zararlardan korunmak için.\n\nEbced Zikir Sayısı: 161"
+        },
+        {
+          "baslik": "91. Ed-Dârr (الضَّارُّ)",
+          "icerik": "Türkçe İsmi: Ed-Dârr\nArapça Yazılışı: الضَّارُّ\n\nDerin Anlamı:\nElem ve zarar veren şeyleri yaratan.\n\nManevi Fazileti & Sırları:\nZararlı kişileri ve durumları uzaklaştırmak için.\n\nEbced Zikir Sayısı: 1001"
+        },
+        {
+          "baslik": "92. En-Nâfi (النَّافِعُ)",
+          "icerik": "Türkçe İsmi: En-Nâfi\nArapça Yazılışı: النَّافِعُ\n\nDerin Anlamı:\nFayda veren şeyleri yaratan.\n\nManevi Fazileti & Sırları:\nSağlık, şifa ve kazanç kapıları için.\n\nEbced Zikir Sayısı: 201"
+        },
+        {
+          "baslik": "93. En-Nûr (النُّورُ)",
+          "icerik": "Türkçe İsmi: En-Nûr\nArapça Yazılışı: النُّورُ\n\nDerin Anlamı:\nAlemleri nurlandıran, hidayet veren.\n\nManevi Fazileti & Sırları:\nDoğru yolu bulmak ve kalbin nurlanması için.\n\nEbced Zikir Sayısı: 256"
+        },
+        {
+          "baslik": "94. El-Hâdî (الْهَادِي)",
+          "icerik": "Türkçe İsmi: El-Hâdî\nArapça Yazılışı: الْهَادِي\n\nDerin Anlamı:\nHidayet lütfeden, doğru yola ulaştıran.\n\nManevi Fazileti & Sırları:\nDoğru yoldan ayrılmamak ve çocukların hidayeti için.\n\nEbced Zikir Sayısı: 20"
+        },
+        {
+          "baslik": "95. El-Bedî (الْبَدِيعُ)",
+          "icerik": "Türkçe İsmi: El-Bedî\nArapça Yazılışı: الْبَدِيعُ\n\nDerin Anlamı:\nÖrneksiz, benzersiz harikalar yaratan.\n\nManevi Fazileti & Sırları:\nSanatta, işte başarı ve gizli yetenekler için.\n\nEbced Zikir Sayısı: 86"
+        },
+        {
+          "baslik": "96. El-Bâkî (الْبَاقِي)",
+          "icerik": "Türkçe İsmi: El-Bâkî\nArapça Yazılışı: الْبَاقِي\n\nDerin Anlamı:\nVarlığının sonu olmayan, ebedi olan.\n\nManevi Fazileti & Sırları:\nÖmrün bereketli ve hayırlı olması için.\n\nEbced Zikir Sayısı: 113"
+        },
+        {
+          "baslik": "97. El-Vâris (الْوَارِثُ)",
+          "icerik": "Türkçe İsmi: El-Vâris\nArapça Yazılışı: الْوَارِثُ\n\nDerin Anlamı:\nHer şey yok olduktan sonra mülkü baki kalan.\n\nManevi Fazileti & Sırları:\nUzun ömür ve kalıcı mal mülk için.\n\nEbced Zikir Sayısı: 707"
+        },
+        {
+          "baslik": "98. Er-Reşîd (الرَّشِيدُ)",
+          "icerik": "Türkçe İsmi: Er-Reşîd\nArapça Yazılışı: الرَّشِيدُ\n\nDerin Anlamı:\nDoğru yolu en iyi gösteren.\n\nManevi Fazileti & Sırları:\nKararsızlıktan kurtulmak ve doğru kararlar için.\n\nEbced Zikir Sayısı: 514"
+        },
+        {
+          "baslik": "99. Es-Sabûr (الصَّبُورُ)",
+          "icerik": "Türkçe İsmi: Es-Sabûr\nArapça Yazılışı: الصَّبُورُ\n\nDerin Anlamı:\nÇok sabırlı olan, cezalandırmada acele etmeyen.\n\nManevi Fazileti & Sırları:\nSabır sahibi olmak ve zorluklara dayanmak için.\n\nEbced Zikir Sayısı: 298"
+        }
+      ]
+    }
+  ]
+}
