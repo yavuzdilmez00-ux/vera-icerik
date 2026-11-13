@@ -1,195 +1,267 @@
 [
  {
+  "id": "genel_01",
+  "kategori": "genel",
+  "dosya": "genel/genel_01.webp",
+  "ad": "Sand dunes at sunrise"
+ },
+ {
   "id": "cuma_01",
   "kategori": "cuma",
   "dosya": "cuma/cuma_01.webp",
-  "ad": "Tulips in Ottoman tile garden"
+  "ad": "Tea glass on window sill"
  },
  {
-  "id": "kandil_01",
-  "kategori": "kandil",
-  "dosya": "kandil/kandil_01.webp",
-  "ad": "Lanterns hanging over mosque cou…"
+  "id": "bayram_01",
+  "kategori": "bayram",
+  "dosya": "bayram/bayram_01.webp",
+  "ad": "Flower petals falling over mosqu…"
+ },
+ {
+  "id": "ayet_01",
+  "kategori": "ayet",
+  "dosya": "ayet/ayet_01.webp",
+  "ad": "Calm river with smooth stones"
  },
  {
   "id": "cuma_02",
   "kategori": "cuma",
   "dosya": "cuma/cuma_02.webp",
-  "ad": "Islamic themed greeting card bac…"
- },
- {
-  "id": "kandil_02",
-  "kategori": "kandil",
-  "dosya": "kandil/kandil_02.webp",
-  "ad": "Illuminated mosque reflected in …"
- },
- {
-  "id": "kandil_03",
-  "kategori": "kandil",
-  "dosya": "kandil/kandil_03.webp",
-  "ad": "Mosque minarets lit at night"
- },
- {
-  "id": "kandil_04",
-  "kategori": "kandil",
-  "dosya": "kandil/kandil_04.webp",
-  "ad": "Candles and oil lamp illustration"
- },
- {
-  "id": "ramazan_01",
-  "kategori": "ramazan",
-  "dosya": "ramazan/ramazan_01.webp",
-  "ad": "Ramadan crescent moon and lantern"
- },
- {
-  "id": "kandil_05",
-  "kategori": "kandil",
-  "dosya": "kandil/kandil_05.webp",
-  "ad": "Mosque under starry desert sky"
+  "ad": "Islamic themed greeting card ill…"
  },
  {
   "id": "cuma_03",
   "kategori": "cuma",
   "dosya": "cuma/cuma_03.webp",
-  "ad": "Crescent moon over mosque dome"
+  "ad": "Blue tiled mosque dome illustration"
  },
  {
-  "id": "kandil_06",
-  "kategori": "kandil",
-  "dosya": "kandil/kandil_06.webp",
-  "ad": "Lantern and rose petals on"
- },
- {
-  "id": "kandil_07",
-  "kategori": "kandil",
-  "dosya": "kandil/kandil_07.webp",
-  "ad": "Shooting stars over minarets bac…"
- },
- {
-  "id": "kandil_08",
-  "kategori": "kandil",
-  "dosya": "kandil/kandil_08.webp",
-  "ad": "Lanterns leading to mosque door"
- },
- {
-  "id": "ramazan_02",
-  "kategori": "ramazan",
-  "dosya": "ramazan/ramazan_02.webp",
-  "ad": "Dates and milk on table"
- },
- {
-  "id": "ramazan_03",
-  "kategori": "ramazan",
-  "dosya": "ramazan/ramazan_03.webp",
-  "ad": "Iftar table illustration background"
+  "id": "bayram_02",
+  "kategori": "bayram",
+  "dosya": "bayram/bayram_02.webp",
+  "ad": "Eid baklava and tea festive"
  },
  {
   "id": "cuma_04",
   "kategori": "cuma",
   "dosya": "cuma/cuma_04.webp",
-  "ad": "Mosque silhouette reflecting in …"
+  "ad": "Minaret silhouette against morni…"
  },
  {
   "id": "cuma_05",
   "kategori": "cuma",
   "dosya": "cuma/cuma_05.webp",
-  "ad": "Raindrops on window with mosque"
- },
- {
-  "id": "genel_01",
-  "kategori": "genel",
-  "dosya": "genel/genel_01.webp",
-  "ad": "Islamic geometric pattern illust…"
+  "ad": "Courtyard fountain with pigeons"
  },
  {
   "id": "cuma_06",
   "kategori": "cuma",
   "dosya": "cuma/cuma_06.webp",
-  "ad": "Green dome among palm trees"
+  "ad": "Wooden mosque door illustration"
  },
  {
   "id": "cuma_07",
   "kategori": "cuma",
   "dosya": "cuma/cuma_07.webp",
-  "ad": "Cherry branches over mosque dome"
+  "ad": "Mosque silhouette with light bal…"
+ },
+ {
+  "id": "bayram_03",
+  "kategori": "bayram",
+  "dosya": "bayram/bayram_03.webp",
+  "ad": "Paper lanterns over street"
+ },
+ {
+  "id": "ramazan_01",
+  "kategori": "ramazan",
+  "dosya": "ramazan/ramazan_01.webp",
+  "ad": "Ramadan dates and water glass"
+ },
+ {
+  "id": "ramazan_02",
+  "kategori": "ramazan",
+  "dosya": "ramazan/ramazan_02.webp",
+  "ad": "Desert caravan path under moon"
  },
  {
   "id": "cuma_08",
   "kategori": "cuma",
   "dosya": "cuma/cuma_08.webp",
-  "ad": "Ornate arched corridor with light"
+  "ad": "Mosque silhouette under crescent…"
  },
  {
   "id": "cuma_09",
   "kategori": "cuma",
   "dosya": "cuma/cuma_09.webp",
-  "ad": "Islamic greeting card background…"
+  "ad": "Islamic themed illustration gree…"
+ },
+ {
+  "id": "bayram_04",
+  "kategori": "bayram",
+  "dosya": "bayram/bayram_04.webp",
+  "ad": "Eid illustration with fireworks …"
  },
  {
   "id": "cuma_10",
   "kategori": "cuma",
   "dosya": "cuma/cuma_10.webp",
-  "ad": "Mosque garden with autumn leaves"
+  "ad": "Islamic greeting card illustrati…"
+ },
+ {
+  "id": "ayet_02",
+  "kategori": "ayet",
+  "dosya": "ayet/ayet_02.webp",
+  "ad": "Misty pine forest at dawn"
+ },
+ {
+  "id": "ayet_03",
+  "kategori": "ayet",
+  "dosya": "ayet/ayet_03.webp",
+  "ad": "Lavender field with mosque silho…"
  },
  {
   "id": "cuma_11",
   "kategori": "cuma",
   "dosya": "cuma/cuma_11.webp",
-  "ad": "Mosque silhouette at golden sunrise"
+  "ad": "Islamic illustration background …"
  },
  {
   "id": "cuma_12",
   "kategori": "cuma",
   "dosya": "cuma/cuma_12.webp",
-  "ad": "Mosque skyline at dawn"
+  "ad": "Crescent moon over dark city"
  },
  {
-  "id": "cuma_13",
-  "kategori": "cuma",
-  "dosya": "cuma/cuma_13.webp",
-  "ad": "Tea and dates by window"
+  "id": "ramazan_03",
+  "kategori": "ramazan",
+  "dosya": "ramazan/ramazan_03.webp",
+  "ad": "Hanging lanterns at blue hour"
  },
  {
-  "id": "cuma_14",
-  "kategori": "cuma",
-  "dosya": "cuma/cuma_14.webp",
-  "ad": "Jasmine flowers on marble window…"
+  "id": "ayet_04",
+  "kategori": "ayet",
+  "dosya": "ayet/ayet_04.webp",
+  "ad": "Coastal mosque morning sunbeams"
  },
  {
-  "id": "cuma_15",
-  "kategori": "cuma",
-  "dosya": "cuma/cuma_15.webp",
-  "ad": "Islamic illustration of mosque b…"
+  "id": "hadis_01",
+  "kategori": "hadis",
+  "dosya": "hadis/hadis_01.webp",
+  "ad": "Marble courtyard illustration wi…"
+ },
+ {
+  "id": "hadis_02",
+  "kategori": "hadis",
+  "dosya": "hadis/hadis_02.webp",
+  "ad": "Jasmine vines framing marble gat…"
+ },
+ {
+  "id": "hadis_03",
+  "kategori": "hadis",
+  "dosya": "hadis/hadis_03.webp",
+  "ad": "Clay pitcher and dates illustration"
+ },
+ {
+  "id": "hadis_04",
+  "kategori": "hadis",
+  "dosya": "hadis/hadis_04.webp",
+  "ad": "Wooden book stand on display"
+ },
+ {
+  "id": "ayet_05",
+  "kategori": "ayet",
+  "dosya": "ayet/ayet_05.webp",
+  "ad": "Mosque in misty mountain valley"
+ },
+ {
+  "id": "hadis_05",
+  "kategori": "hadis",
+  "dosya": "hadis/hadis_05.webp",
+  "ad": "Pomegranate branches framing ivo…"
+ },
+ {
+  "id": "ayet_06",
+  "kategori": "ayet",
+  "dosya": "ayet/ayet_06.webp",
+  "ad": "Serene desert landscape under stars"
  },
  {
   "id": "genel_02",
   "kategori": "genel",
   "dosya": "genel/genel_02.webp",
-  "ad": "Islamic star pattern illustratio…"
+  "ad": "Crescent moon over sand dunes"
  },
  {
-  "id": "cuma_16",
+  "id": "cuma_13",
   "kategori": "cuma",
-  "dosya": "cuma/cuma_16.webp",
-  "ad": "Doves flying over mosque dome"
+  "dosya": "cuma/cuma_13.webp",
+  "ad": "Mosque silhouette at sunset"
  },
  {
-  "id": "cuma_17",
-  "kategori": "cuma",
-  "dosya": "cuma/cuma_17.webp",
-  "ad": "Red rose and prayer beads"
+  "id": "hadis_06",
+  "kategori": "hadis",
+  "dosya": "hadis/hadis_06.webp",
+  "ad": "Marble archway framing garden dawn"
  },
  {
-  "id": "kandil_09",
+  "id": "kandil_01",
   "kategori": "kandil",
-  "dosya": "kandil/kandil_09.webp",
-  "ad": "Desert dunes under starry night"
+  "dosya": "kandil/kandil_01.webp",
+  "ad": "Ornate brass lantern Islamic bac…"
+ },
+ {
+  "id": "kandil_02",
+  "kategori": "kandil",
+  "dosya": "kandil/kandil_02.webp",
+  "ad": "Lantern casting warm patterns floor"
+ },
+ {
+  "id": "cuma_14",
+  "kategori": "cuma",
+  "dosya": "cuma/cuma_14.webp",
+  "ad": "Islamic-themed greeting card bac…"
  },
  {
   "id": "genel_03",
   "kategori": "genel",
   "dosya": "genel/genel_03.webp",
-  "ad": "Olive branch illustration backgr…"
+  "ad": "Olive branch on parchment surface"
+ },
+ {
+  "id": "cuma_15",
+  "kategori": "cuma",
+  "dosya": "cuma/cuma_15.webp",
+  "ad": "Crescent moon rising over cityscape"
+ },
+ {
+  "id": "cuma_16",
+  "kategori": "cuma",
+  "dosya": "cuma/cuma_16.webp",
+  "ad": "Islamic-themed illustration back…"
+ },
+ {
+  "id": "kandil_03",
+  "kategori": "kandil",
+  "dosya": "kandil/kandil_03.webp",
+  "ad": "Rose petals on prayer mat"
+ },
+ {
+  "id": "ayet_07",
+  "kategori": "ayet",
+  "dosya": "ayet/ayet_07.webp",
+  "ad": "Lotus pond reflecting minaret tips"
+ },
+ {
+  "id": "hadis_07",
+  "kategori": "hadis",
+  "dosya": "hadis/hadis_07.webp",
+  "ad": "Teapot and dates on mat"
+ },
+ {
+  "id": "cuma_17",
+  "kategori": "cuma",
+  "dosya": "cuma/cuma_17.webp",
+  "ad": "Golden dome silhouette dusk sky"
  },
  {
   "id": "cuma_18",
@@ -198,27 +270,255 @@
   "ad": "Islamic themed illustration back…"
  },
  {
+  "id": "ayet_08",
+  "kategori": "ayet",
+  "dosya": "ayet/ayet_08.webp",
+  "ad": "Cypress trees against amber horizon"
+ },
+ {
+  "id": "ayet_09",
+  "kategori": "ayet",
+  "dosya": "ayet/ayet_09.webp",
+  "ad": "Golden palm leaves illustration …"
+ },
+ {
+  "id": "dua_01",
+  "kategori": "dua",
+  "dosya": "dua/dua_01.webp",
+  "ad": "Mosque at sunset with palms"
+ },
+ {
+  "id": "ramazan_04",
+  "kategori": "ramazan",
+  "dosya": "ramazan/ramazan_04.webp",
+  "ad": "Mosques under pre-dawn sky"
+ },
+ {
+  "id": "ramazan_05",
+  "kategori": "ramazan",
+  "dosya": "ramazan/ramazan_05.webp",
+  "ad": "Ramadan lanterns on street"
+ },
+ {
+  "id": "kandil_04",
+  "kategori": "kandil",
+  "dosya": "kandil/kandil_04.webp",
+  "ad": "Night garden roses under moonlight"
+ },
+ {
+  "id": "ramazan_06",
+  "kategori": "ramazan",
+  "dosya": "ramazan/ramazan_06.webp",
+  "ad": "Iftar table illustration background"
+ },
+ {
+  "id": "ramazan_07",
+  "kategori": "ramazan",
+  "dosya": "ramazan/ramazan_07.webp",
+  "ad": "Dates and milk on table"
+ },
+ {
+  "id": "kandil_05",
+  "kategori": "kandil",
+  "dosya": "kandil/kandil_05.webp",
+  "ad": "Lanterns leading to mosque door"
+ },
+ {
+  "id": "kandil_06",
+  "kategori": "kandil",
+  "dosya": "kandil/kandil_06.webp",
+  "ad": "Shooting stars over minarets bac…"
+ },
+ {
+  "id": "kandil_07",
+  "kategori": "kandil",
+  "dosya": "kandil/kandil_07.webp",
+  "ad": "Lantern and rose petals on"
+ },
+ {
   "id": "cuma_19",
   "kategori": "cuma",
   "dosya": "cuma/cuma_19.webp",
-  "ad": "Mosque silhouette at golden sunset"
+  "ad": "Crescent moon over mosque dome"
+ },
+ {
+  "id": "kandil_08",
+  "kategori": "kandil",
+  "dosya": "kandil/kandil_08.webp",
+  "ad": "Mosque under starry desert sky"
+ },
+ {
+  "id": "ramazan_08",
+  "kategori": "ramazan",
+  "dosya": "ramazan/ramazan_08.webp",
+  "ad": "Ramadan crescent moon and lantern"
+ },
+ {
+  "id": "kandil_09",
+  "kategori": "kandil",
+  "dosya": "kandil/kandil_09.webp",
+  "ad": "Candles and oil lamp illustration"
  },
  {
   "id": "kandil_10",
   "kategori": "kandil",
   "dosya": "kandil/kandil_10.webp",
-  "ad": "Lantern lit mosque courtyard ill…"
+  "ad": "Mosque minarets lit at night"
+ },
+ {
+  "id": "kandil_11",
+  "kategori": "kandil",
+  "dosya": "kandil/kandil_11.webp",
+  "ad": "Illuminated mosque reflected in …"
  },
  {
   "id": "cuma_20",
   "kategori": "cuma",
   "dosya": "cuma/cuma_20.webp",
-  "ad": "Prayer rug near window"
+  "ad": "Islamic themed greeting card bac…"
+ },
+ {
+  "id": "kandil_12",
+  "kategori": "kandil",
+  "dosya": "kandil/kandil_12.webp",
+  "ad": "Lanterns hanging over mosque cou…"
  },
  {
   "id": "cuma_21",
   "kategori": "cuma",
   "dosya": "cuma/cuma_21.webp",
+  "ad": "Tulips in Ottoman tile garden"
+ },
+ {
+  "id": "cuma_22",
+  "kategori": "cuma",
+  "dosya": "cuma/cuma_22.webp",
+  "ad": "Mosque silhouette reflecting in …"
+ },
+ {
+  "id": "dua_02",
+  "kategori": "dua",
+  "dosya": "dua/dua_02.webp",
+  "ad": "Raindrops on window with mosque"
+ },
+ {
+  "id": "genel_04",
+  "kategori": "genel",
+  "dosya": "genel/genel_04.webp",
+  "ad": "Islamic geometric pattern illust…"
+ },
+ {
+  "id": "cuma_23",
+  "kategori": "cuma",
+  "dosya": "cuma/cuma_23.webp",
+  "ad": "Green dome among palm trees"
+ },
+ {
+  "id": "cuma_24",
+  "kategori": "cuma",
+  "dosya": "cuma/cuma_24.webp",
+  "ad": "Cherry branches over mosque dome"
+ },
+ {
+  "id": "cuma_25",
+  "kategori": "cuma",
+  "dosya": "cuma/cuma_25.webp",
+  "ad": "Ornate arched corridor with light"
+ },
+ {
+  "id": "cuma_26",
+  "kategori": "cuma",
+  "dosya": "cuma/cuma_26.webp",
+  "ad": "Islamic greeting card background…"
+ },
+ {
+  "id": "cuma_27",
+  "kategori": "cuma",
+  "dosya": "cuma/cuma_27.webp",
+  "ad": "Mosque garden with autumn leaves"
+ },
+ {
+  "id": "cuma_28",
+  "kategori": "cuma",
+  "dosya": "cuma/cuma_28.webp",
+  "ad": "Mosque silhouette at golden sunrise"
+ },
+ {
+  "id": "cuma_29",
+  "kategori": "cuma",
+  "dosya": "cuma/cuma_29.webp",
+  "ad": "Mosque skyline at dawn"
+ },
+ {
+  "id": "cuma_30",
+  "kategori": "cuma",
+  "dosya": "cuma/cuma_30.webp",
+  "ad": "Tea and dates by window"
+ },
+ {
+  "id": "cuma_31",
+  "kategori": "cuma",
+  "dosya": "cuma/cuma_31.webp",
+  "ad": "Jasmine flowers on marble window…"
+ },
+ {
+  "id": "cuma_32",
+  "kategori": "cuma",
+  "dosya": "cuma/cuma_32.webp",
+  "ad": "Islamic illustration of mosque b…"
+ },
+ {
+  "id": "genel_05",
+  "kategori": "genel",
+  "dosya": "genel/genel_05.webp",
+  "ad": "Islamic star pattern illustratio…"
+ },
+ {
+  "id": "cuma_33",
+  "kategori": "cuma",
+  "dosya": "cuma/cuma_33.webp",
+  "ad": "Doves flying over mosque dome"
+ },
+ {
+  "id": "dua_03",
+  "kategori": "dua",
+  "dosya": "dua/dua_03.webp",
+  "ad": "Red rose and prayer beads"
+ },
+ {
+  "id": "kandil_13",
+  "kategori": "kandil",
+  "dosya": "kandil/kandil_13.webp",
+  "ad": "Desert dunes under starry night"
+ },
+ {
+  "id": "genel_06",
+  "kategori": "genel",
+  "dosya": "genel/genel_06.webp",
+  "ad": "Olive branch illustration backgr…"
+ },
+ {
+  "id": "cuma_34",
+  "kategori": "cuma",
+  "dosya": "cuma/cuma_34.webp",
+  "ad": "Mosque silhouette at golden sunset"
+ },
+ {
+  "id": "kandil_14",
+  "kategori": "kandil",
+  "dosya": "kandil/kandil_14.webp",
+  "ad": "Lantern lit mosque courtyard ill…"
+ },
+ {
+  "id": "cuma_35",
+  "kategori": "cuma",
+  "dosya": "cuma/cuma_35.webp",
+  "ad": "Prayer rug near window"
+ },
+ {
+  "id": "cuma_36",
+  "kategori": "cuma",
+  "dosya": "cuma/cuma_36.webp",
   "ad": "Fountain in Andalusian courtyard"
  }
 ]
